@@ -3,18 +3,17 @@
 <head>
   <title>TASADOR ONLINE DE VIVIENDAS</title>
   <meta charset="UTF-8">
-  <meta name="description" content="Descripción de la página…">
 </head>
 <body>
     <div class="container">
-    
+
     <form id='submit_params' method="POST" action="{{ url_for('main') }}">
     <div class="form-group">
     <table class="table">
         <tr>
             <td width="300px"><p style="text-align:center"><h1>TASADOR <BR>VIVIENDAS</h1></p></td>
             <td><p style="text-align:center">
-                <img src="images/Tasacion_inmobiliaria.jpg" alt="Tasación Inmobiliaria" height="100" width="50">
+                <img src="static/images/Tasacion_inmobiliaria.jpg" alt="Tasación Inmobiliaria" height="200" width="400">
                 </p>
             </td>
         </tr>
@@ -143,14 +142,14 @@
                               <option>Legazpi, Arganzuela(Madrid)</option>
                               <option>Delicias, Arganzuela(Madrid)</option>
                               <option>Alameda de Osuna, Barajas(Madrid)</option>
-                              <option>Timón, Barajas(Madrid)</option>     
+                              <option>Timón, Barajas(Madrid)</option>
                           </SELECT>
                         </td>
                     </tr>
                     <tr>
                         <td><label for="vivienda">Introduce los m2 de tu vivienda</label></td>
                         <td><input type="number" class="form-control" id="sq_mt_built"
-                            placeholder="Introduce m2" name="s_sq_mt_built" value="{{s_sq_mt_built}">
+                            placeholder="Introduce m2" name="s_sq_mt_built" value="{{s_sq_mt_built}}">
                         </td>
                     </tr>
                     <tr>
@@ -184,29 +183,29 @@
                               <option>Semisótano</option>
                               <option>Entreplanta<option>
                               <option>Bajo</option>
-                              <option>1º</option>
-                              <option>2º</option>
-                              <option>3º</option>
-                              <option>4º</option>
-                              <option>5º</option>
-                              <option>6º</option>
-                              <option>7º</option>
-                              <option>8º</option>
-                              <option>9º</option>
+                              <option>1ª</option>
+                              <option>2ª</option>
+                              <option>3ª</option>
+                              <option>4ª</option>
+                              <option>5ª</option>
+                              <option>6ª</option>
+                              <option>7ª</option>
+                              <option>8ª</option>
+                              <option>9ª</option>
                         </td>
                     </tr>
               </table>
             </td>
-    
+
             <td>{{model_results}}<BR>{{model_plot}}
             </td>
         </tr>
-        <td><button class="btn btn-default" type="submit" style="width: 100px; height: 30px;">Conozca el precio de su vivienda</button></td><td></td><td></td>
+        <td><button class="btn btn-default" type="submit" style="width: 150px; height: 60px;">Conozca el precio de su vivienda</button></td><td></td><td></td>
         <tr>
     </table>
     </div>
     </form>
-    
+
     </div>
     </body>
     </html>

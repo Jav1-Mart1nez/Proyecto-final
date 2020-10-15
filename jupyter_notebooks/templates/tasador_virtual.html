@@ -1,0 +1,222 @@
+<!DOCTYPE HTML>
+<html lang="es">
+<head>
+  <title>TASADOR ONLINE DE VIVIENDAS</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+    <div class="container">
+
+    <form id='submit_params' method="POST" action="{{ url_for('main') }}">
+    <div class="form-group">
+    <table class="table">
+        <tr>
+            <td width="300px"><p style="text-align:center"><h1>TASADOR <BR>VIVIENDAS</h1></p></td>
+            <td><p style="text-align:center">
+                <img src="static/images/Tasacion_inmobiliaria.jpg" alt="Tasación Inmobiliaria" height="200" width="400">
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table class="table" border=0 >
+                    <tr>
+                        <td><label for="vivienda">Localización (Barrio de Madrid)</label></td>
+                        <td>
+                         <SELECT class="selectpicker" name="s_neighborhood_id">
+                              <option value="{{s_neighborhood_id}}" selected>{{s_neighborhood_id}}</option>
+                              <option>San Cristóbal, Villaverde(Madrid)</option>
+                              <option>Los Ángeles, Villaverde(Madrid)</option>
+                              <option>San Andrés, Villaverde(Madrid)<option>
+                              <option>Los Rosales, Villaverde(Madrid)</option>
+                              <option>Butarque, Villaverde(Madrid)</option>
+                              <option>Ambroz, Vicálvaro(Madrid)</option>
+                              <option>Casco Histórico de Vicálvaro, Vicálvaro(Madrid)</option>
+                              <option>Casco Histórico de Vallecas, Villa de Vallecas(Madrid)</option>
+                              <option>Santa Eugenia, Villa de Vallecas(Madrid)</option>
+                              <option>Orcasitas, Usera(Madrid)</option>
+                              <option>San Fermín, Usera(Madrid)</option>
+                              <option>Pradolongo, Usera(Madrid)</option>
+                              <option>Almendrales, Usera(Madrid)</option>
+                              <option>Moscardó, Usera(Madrid)</option>
+                              <option>Zofío, Usera(Madrid)</option>
+                              <option>Cuzco-Castillejos, Tetuán(Madrid)</option>
+                              <option>Cuatro Caminos, Tetuán(Madrid)</option>
+                              <option>Bellas Vistas, Tetuán(Madrid)</option>
+                              <option>Berruguete, Tetuán(Madrid)</option>
+                              <option>Valdeacederas, Tetuán(Madrid)</option>
+                              <option>Ventilla-Almenara, Tetuán(Madrid)</option>
+                              <option>Niño Jesús, Retiro(Madrid)</option>
+                              <option>Ibiza, Retiro(Madrid)</option>
+                              <option>Adelfas, Retiro(Madrid)</option>
+                              <option>Pacífico, Retiro(Madrid)</option>
+                              <option>Jerónimos, Retiro(Madrid)</option>
+                              <option>Estrella, Retiro(Madrid)</option>
+                              <option>Palomeras sureste, Puente de Vallecas(Madrid)</option>
+                              <option>Palomeras Bajas, Puente de Vallecas(Madrid)</option>
+                              <option>San Diego, Puente de Vallecas(Madrid)</option>
+                              <option>Numancia, Puente de Vallecas(Madrid)</option>
+                              <option>Entrevías, Puente de Vallecas(Madrid)</option>
+                              <option>Portazgo, Puente de Vallecas(Madrid)</option>
+                              <option>Aravaca, Moncloa(Madrid)</option>
+                              <option>Argüelles, Moncloa(Madrid)</option>
+                              <option>Casa de Campo, Moncloa(Madrid)</option>
+                              <option>Ciudad Universitaria, Moncloa(Madrid)</option>
+                              <option>Valdezarza, Moncloa(Madrid)</option>
+                              <option>Valdemarín, Moncloa(Madrid)</option>
+                              <option>Fontarrón, Moratalaz(Madrid)</option>
+                              <option>Vinateros, Moratalaz(Madrid)</option>
+                              <option>Marroquina, Moratalaz(Madrid)</option>
+                              <option>Media Legua, Moratalaz(Madrid)</option>
+                              <option>Pavones, Moratalaz(Madrid)</option>
+                              <option>Horcajo, Moratalaz(Madrid)</option>
+                              <option>Puerta del Ángel, Latina(Madrid)</option>
+                              <option>Aluche, Latina(Madrid)</option>
+                              <option>Lucero, Latina(Madrid)</option>
+                              <option>Águilas, Latina(Madrid)</option>
+                              <option>Campamento, Latina(Madrid)</option>
+                              <option>Cuatro Vientos, Latina(Madrid)</option>
+                              <option>El Plantío, Moncloa(Madrid)</option>
+                              <option>Las Tablas, Fuencarral(Madrid)</option>
+                              <option>Montecarmelo, Fuencarral(Madrid)</option>
+                              <option>La Paz, Fuencarral(Madrid)</option>
+                              <option>Pilar, Fuencarral(Madrid)</option>
+                              <option>Fuentelarreina, Fuencarral(Madrid)</option>
+                              <option>Peñagrande, Fuencarral(Madrid)</option>
+                              <option>Tres Olivos - Valverde, Fuencarral(Madrid)</option>
+                              <option>Mirasierra, Fuencarral(Madrid)</option>
+                              <option>El Pardo, Fuencarral(Madrid)</option>
+                              <option>Sanchinarro, Hortaleza(Madrid)</option>
+                              <option>Conde Orgaz-Piovera, Hortaleza(Madrid)</option>
+                              <option>Palomas, Hortaleza(Madrid)</option>
+                              <option>Virgen del Cortijo - Manoteras, Hortaleza(Madrid)</option>
+                              <option>Valdebebas - Valdefuentes, Hortaleza(Madrid)</option>
+                              <option>Pinar del Rey, Hortaleza(Madrid)</option>
+                              <option>Canillas, Hortaleza(Madrid)</option>
+                              <option>Apóstol Santiago, Hortaleza(Madrid)</option>
+                              <option>Gaztambide, Chamberí(Madrid)</option>
+                              <option>Nuevos Ministerios-Ríos Rosas</option>
+                              <option>Chamberí(Madrid)</option>
+                              <option>Almagro, Chamberí(Madrid)</option>
+                              <option>Trafalgar, Chamberí(Madrid)</option>
+                              <option>Arapiles, Chamberí(Madrid)</option>
+                              <option>Vallehermoso, Chamberí(Madrid)</option>
+                              <option>Ventas, Ciudad Lineal(Madrid)</option>
+                              <option>Pueblo Nuevo, Ciudad Lineal(Madrid)</option>
+                              <option>Atalaya, Ciudad Lineal(Madrid)</option>
+                              <option>Quintana, Ciudad Lineal(Madrid)</option>
+                              <option>San Juan Bautista, Ciudad Lineal(Madrid)</option>
+                              <option>Costillares, Ciudad Lineal(Madrid)</option>
+                              <option>Concepción, Ciudad Lineal(Madrid)</option>
+                              <option>San Pascual, Ciudad Lineal(Madrid)</option>
+                              <option>Colina, Ciudad Lineal(Madrid)</option>
+                              <option>El Viso, Chamartín(Madrid)</option>
+                              <option>Nueva España, Chamartín(Madrid)</option>
+                              <option>Castilla, Chamartín(Madrid)</option>
+                              <option>Bernabéu-Hispanoamérica, Chamartín(Madrid)</option>
+                              <option>Prosperidad, Chamartín(Madrid)</option>
+                              <option>Ciudad Jardín, Chamartín(Madrid)</option>
+                              <option>Lavapiés-Embajadores, Centro(Madrid)</option>
+                              <option>Opañel, Carabanchel(Madrid)</option>
+                              <option>Comillas, Carabanchel(Madrid)</option>
+                              <option>Abrantes, Carabanchel(Madrid)</option>
+                              <option>San Isidro, Carabanchel(Madrid)</option>
+                              <option>Vista Alegre, Carabanchel(Madrid)</option>
+                              <option>Pau de Carabanchel, Carabanchel(Madrid)</option>
+                              <option>Puerta Bonita, Carabanchel(Madrid)</option>
+                              <option>Huertas-Cortes, Centro(Madrid)</option>
+                              <option>Malasaña-Universidad, Centro(Madrid)</option>
+                              <option>Chueca-Justicia, Centro(Madrid)</option>
+                              <option>Palacio, Centro(Madrid)</option>
+                              <option>Sol, Centro(Madrid)</option>
+                              <option>Recoletos, Salamanca(Madrid)</option>
+                              <option>Goya, Salamanca(Madrid)</option>
+                              <option>Lista, Salamanca(Madrid)</option>
+                              <option>Castellana, Salamanca(Madrid)</option>
+                              <option>Guindalera, Salamanca(Madrid)</option>
+                              <option>Fuente del Berro, Salamanca(Madrid)</option>
+                              <option>Imperial, Arganzuela(Madrid)</option>
+                              <option>Chopera, Arganzuela(Madrid)</option>
+                              <option>Acacias, Arganzuela(Madrid)</option>
+                              <option>Palos de Moguer, Arganzuela(Madrid)</option>
+                              <option>Legazpi, Arganzuela(Madrid)</option>
+                              <option>Delicias, Arganzuela(Madrid)</option>
+                              <option>Alameda de Osuna, Barajas(Madrid)</option>
+                              <option>Timón, Barajas(Madrid)</option>
+                          </SELECT>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><label for="vivienda">Introduce los m2 de tu vivienda</label></td>
+                        <td><input type="number" class="form-control" id="sq_mt_built"
+                            placeholder="Introduce m2" name="s_sq_mt_built" value="{{s_sq_mt_built}}">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><label for="vivienda">Nº de habitaciones</label></td>
+                        <td>
+                           <SELECT class="selectpicker" name="s_n_rooms">
+                            <option value="{{s_n_rooms}}" selected>{{s_n_rooms}}</option>
+                           {% for n_rooms in range(0,10) %}
+                               <option>{{n_rooms}}</option>
+                           {% endfor %}
+                              </SELECT>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><label for="vivienda">Nº de baños</label></td>
+                        <td>
+                           <SELECT class="selectpicker" name="s_n_bathrooms">
+                            <option value="{{s_n_bathrooms}}" selected>{{s_n_bathrooms}}</option>
+                           {% for n_bathrooms in range(1,8) %}
+                               <option>{{n_bathrooms}}</option>
+                           {% endfor %}
+                              </SELECT>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><label for="vivienda">Planta</label></td>
+                        <td>
+                         <SELECT class="selectpicker" name="s_floor">
+                              <option value="{{s_floor}}" selected>{{s_floor}}</option>
+                              <option>Sótano</option>
+                              <option>Semisótano</option>
+                              <option>Entreplanta<option>
+                              <option>Bajo</option>
+                              <option>1ª</option>
+                              <option>2ª</option>
+                              <option>3ª</option>
+                              <option>4ª</option>
+                              <option>5ª</option>
+                              <option>6ª</option>
+                              <option>7ª</option>
+                              <option>8ª</option>
+                              <option>9ª</option>
+                        </td>
+                    </tr>
+              </table>
+            </td>
+
+            <td>{{model_results}}<BR>{{model_plot}}
+            </td>
+        </tr>
+        <td><button class="btn btn-default" type="submit" style="width: 150px; height: 60px;">Conozca el precio de su vivienda</button></td><td></td><td></td>
+        <tr>
+    </table>
+    </div>
+    </form>
+
+    </div>
+    </body>
+    </html>
+
+
+
+
+
+
+
+
+
+
+
