@@ -12347,8 +12347,8 @@
 12345,"El Viso, Chamartín(Madrid)",HouseType 1: Pisos,False,False,52.0,1,1.0,3,True,True,False,False,True,False,False,340000,6538,40.44362125,-3.684988547360306
 12346,"El Viso, Chamartín(Madrid)",HouseType 5: Áticos,True,False,207.0,4,2.0,7,True,True,True,True,True,False,False,1050000,5072,40.44362125,-3.684988547360306
 12347,"Lavapiés-Embajadores, Centro(Madrid)",HouseType 1: Pisos,False,False,71.0,2,1.0,1,True,False,False,False,False,False,False,370000,5211,40.4083825,-3.7008182
-12348,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,83.0,3,1.0,2,True,False,False,False,True,False,False,177260,2136,40.3869032,-3.7231858
-12349,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,83.0,3,1.0,2,True,False,False,False,False,False,False,177260,2136,40.3869032,-3.7231858
+12348,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,83.0,3,1.0,2,True,False,False,False,True,False,False,177260,2136,40.3861447,-3.7234674
+12349,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,83.0,3,1.0,2,True,False,False,False,False,False,False,177260,2136,40.3861447,-3.7234674
 12350,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,87.0,3,1.0,3,True,True,False,False,True,False,False,275000,3161,40.392825450000004,-3.7141869541784382
 12351,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,3,1.0,2,True,False,False,False,True,False,False,130000,1733,40.3809981,-3.7279849
 12352,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,78.0,2,1.0,2,True,False,False,False,True,False,False,165000,2115,40.3809981,-3.7279849
@@ -12357,17 +12357,17 @@
 12355,"San Isidro, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,91.0,2,2.0,2,True,True,False,True,True,False,False,190000,2088,40.3742112,-3.744676
 12356,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,71.0,2,1.0,1,True,False,False,False,True,False,False,199900,2815,40.3742112,-3.744676
 12357,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,63.0,3,1.0,1,True,False,False,False,False,False,False,135000,2143,40.3887883,-3.7400441
-12358,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,64.0,2,1.0,Bajo,True,False,False,False,False,False,False,135000,2109,40.3869032,-3.7231858
+12358,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,64.0,2,1.0,Bajo,True,False,False,False,False,False,False,135000,2109,40.3861447,-3.7234674
 12359,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,110.0,3,2.0,2,True,True,True,False,False,False,True,319000,2900,40.3693742,-3.7626949
 12360,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,89.0,3,2.0,3,False,True,False,False,True,False,False,230000,2584,40.392825450000004,-3.7141869541784382
 12361,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,48.0,2,1.0,4,True,True,False,False,False,False,False,172000,3583,40.3864775,-3.7345594
 12362,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,107.0,4,2.0,2,True,True,True,False,True,False,False,222500,2079,40.3887883,-3.7400441
 12363,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,143.0,2,2.0,5,True,True,True,True,True,False,True,450000,3147,40.3864775,-3.7345594
 12364,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,67.0,1,1.0,Bajo,True,True,True,True,False,False,False,159900,2387,40.3864775,-3.7345594
-12365,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,53.0,1,1.0,3,True,True,False,False,False,False,False,140000,2642,40.3869032,-3.7231858
+12365,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,53.0,1,1.0,3,True,True,False,False,False,False,False,140000,2642,40.3861447,-3.7234674
 12366,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,54.0,2,1.0,5,True,False,False,False,True,False,False,95000,1759,40.3742112,-3.744676
 12367,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,101.0,3,2.0,3,True,True,False,False,True,False,False,315000,3119,40.3742112,-3.744676
-12368,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,83.0,3,1.0,2,True,False,False,False,True,False,False,177260,2136,40.3869032,-3.7231858
+12368,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,83.0,3,1.0,2,True,False,False,False,True,False,False,177260,2136,40.3861447,-3.7234674
 12369,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,113.0,3,1.0,1,True,False,False,True,True,False,False,170000,1504,40.3742112,-3.744676
 12370,"San Isidro, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,95.0,1,1.0,9,True,True,False,False,True,False,False,399000,4200,40.3742112,-3.744676
 12371,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,91.0,3,1.0,6,True,True,False,False,True,False,False,295000,3242,40.392825450000004,-3.7141869541784382
@@ -12381,7 +12381,7 @@
 12379,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,3,1.0,2,True,False,False,False,False,False,False,140000,2000,40.3728306,-3.7430863
 12380,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,100.0,3,2.0,4,True,True,True,False,False,False,False,290000,2900,40.3809981,-3.7279849
 12381,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,98.0,3,1.0,5,True,True,False,False,True,False,False,330000,3367,40.392825450000004,-3.7141869541784382
-12382,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,87.0,2,1.0,1,True,True,False,True,True,False,False,295000,3391,40.3869032,-3.7231858
+12382,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,87.0,2,1.0,1,True,True,False,True,True,False,False,295000,3391,40.3861447,-3.7234674
 12383,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,104.0,4,2.0,1,True,True,False,False,False,False,True,344900,3316,40.3809981,-3.7279849
 12384,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,72.0,2,1.0,1,True,True,True,False,True,False,False,179900,2499,40.3728306,-3.7430863
 12385,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,2,1.0,2,True,False,False,True,True,False,False,128000,1829,40.3728306,-3.7430863
@@ -12402,7 +12402,7 @@
 12400,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,92.0,3,1.0,4,True,False,False,False,False,False,False,140000,1522,40.3864775,-3.7345594
 12401,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,3,1.0,4,True,False,False,False,False,False,False,130000,2167,40.3809981,-3.7279849
 12402,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,85.0,3,1.0,1,True,False,False,True,True,False,False,170000,2000,40.3742112,-3.744676
-12403,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,69.0,2,1.0,3,True,False,False,False,True,False,False,133000,1928,40.3869032,-3.7231858
+12403,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,69.0,2,1.0,3,True,False,False,False,True,False,False,133000,1928,40.3861447,-3.7234674
 12404,"San Isidro, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,99.0,1,1.0,9,True,True,False,False,True,False,False,399000,4030,40.3742112,-3.744676
 12405,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,84.0,3,2.0,2,True,True,False,True,True,False,False,169900,2023,40.3809981,-3.7279849
 12406,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,67.0,2,1.0,2,True,False,False,False,True,False,False,120000,1791,40.3742112,-3.744676
@@ -12412,15 +12412,15 @@
 12410,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,133.0,3,2.0,1,True,False,False,False,True,False,False,247000,1857,40.3864775,-3.7345594
 12411,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,55.0,2,1.0,2,True,False,False,False,True,False,False,118500,2155,40.3887883,-3.7400441
 12412,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,78.0,2,1.0,3,False,True,False,False,False,True,False,225000,2885,40.392825450000004,-3.7141869541784382
-12413,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,84.0,3,1.0,6,True,True,False,False,False,False,False,269999,3214,40.3869032,-3.7231858
+12413,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,84.0,3,1.0,6,True,True,False,False,False,False,False,269999,3214,40.3861447,-3.7234674
 12414,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,49.0,2,1.0,Semi-sótano exterior,True,False,False,False,False,False,False,79900,1631,40.3887883,-3.7400441
 12415,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,91.0,2,2.0,2,True,True,True,True,False,False,True,228500,2511,40.3693742,-3.7626949
-12416,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,109.0,4,2.0,Bajo,True,True,False,False,False,False,False,369900,3394,40.3869032,-3.7231858
+12416,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,109.0,4,2.0,Bajo,True,True,False,False,False,False,False,369900,3394,40.3861447,-3.7234674
 12417,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,139.0,4,2.0,1,True,False,False,True,True,False,False,235000,1691,40.3742112,-3.744676
 12418,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,147.0,4,1.0,Bajo,True,False,False,True,True,False,False,275000,1871,40.3887883,-3.7400441
 12419,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,2,1.0,3,True,True,False,False,True,False,False,130000,1857,40.3728306,-3.7430863
 12420,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,89.0,3,1.0,4,True,True,False,False,True,False,False,162000,1820,40.3887883,-3.7400441
-12421,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,3,1.0,2,True,True,False,False,True,False,False,151900,2170,40.3869032,-3.7231858
+12421,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,3,1.0,2,True,True,False,False,True,False,False,151900,2170,40.3861447,-3.7234674
 12422,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,85.0,3,1.0,1,True,False,False,True,True,False,False,157000,1847,40.3742112,-3.744676
 12423,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,63.0,2,1.0,2,True,False,False,False,False,False,False,120890,1919,40.3864775,-3.7345594
 12424,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,74.0,3,1.0,2,True,False,False,False,True,False,False,126900,1715,40.3728306,-3.7430863
@@ -12433,15 +12433,15 @@
 12431,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,102.0,2,2.0,1,True,True,True,True,False,False,True,272000,2667,40.3693742,-3.7626949
 12432,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,78.0,3,1.0,3,True,True,False,False,True,False,False,144900,1858,40.3742112,-3.744676
 12433,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,2,1.0,2,True,False,False,False,False,False,False,165000,2357,40.3887883,-3.7400441
-12434,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,78.0,3,1.0,2,True,True,False,False,True,False,False,146000,1872,40.3869032,-3.7231858
+12434,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,78.0,3,1.0,2,True,True,False,False,True,False,False,146000,1872,40.3861447,-3.7234674
 12435,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,85.0,3,1.0,2,True,True,False,False,True,False,False,185000,2176,40.3887883,-3.7400441
 12436,"San Isidro, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,58.0,1,1.0,3,True,True,False,False,True,False,False,195000,3362,40.3742112,-3.744676
 12437,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,110.0,3,2.0,6,True,True,True,False,False,False,True,330000,3000,40.3693742,-3.7626949
-12438,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,120.0,4,2.0,Bajo,True,True,True,True,True,False,False,369900,3082,40.3869032,-3.7231858
+12438,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,120.0,4,2.0,Bajo,True,True,True,True,True,False,False,369900,3082,40.3861447,-3.7234674
 12439,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,100.0,3,1.0,2,True,True,False,True,True,False,False,259900,2599,40.392825450000004,-3.7141869541784382
 12440,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,100.0,3,1.0,4,True,True,False,True,True,False,False,274900,2749,40.392825450000004,-3.7141869541784382
 12441,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,3,1.0,2,True,True,False,False,True,False,False,164900,2356,40.392825450000004,-3.7141869541784382
-12442,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,120.0,4,2.0,Bajo,True,True,True,False,True,False,False,369900,3082,40.3869032,-3.7231858
+12442,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,120.0,4,2.0,Bajo,True,True,True,False,True,False,False,369900,3082,40.3861447,-3.7234674
 12443,"San Isidro, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,99.0,3,2.0,3,True,True,True,True,True,False,True,430000,4343,40.3742112,-3.744676
 12444,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,60.0,2,1.0,2,True,False,False,False,False,False,False,110000,1833,40.3864775,-3.7345594
 12445,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,77.0,2,2.0,1,True,True,False,True,False,False,False,218000,2831,40.3742112,-3.744676
@@ -12452,13 +12452,13 @@
 12450,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,2,1.0,Bajo,True,False,False,False,False,False,False,84500,1408,40.3809981,-3.7279849
 12451,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,62.0,3,1.0,1,True,False,False,False,False,False,False,129900,2095,40.3742112,-3.744676
 12452,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,58.0,3,1.0,4,True,False,False,False,True,False,False,125000,2155,40.3728306,-3.7430863
-12453,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,108.0,3,2.0,1,True,False,False,False,False,True,False,238000,2204,40.3869032,-3.7231858
+12453,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,108.0,3,2.0,1,True,False,False,False,False,True,False,238000,2204,40.3861447,-3.7234674
 12454,"San Isidro, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,53.0,1,1.0,3,True,True,False,False,True,False,False,195000,3679,40.3742112,-3.744676
-12455,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,3,1.0,5,True,True,False,False,False,False,False,235000,3357,40.3869032,-3.7231858
+12455,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,3,1.0,5,True,True,False,False,False,False,False,235000,3357,40.3861447,-3.7234674
 12456,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,56.0,2,1.0,Bajo,True,True,False,False,False,False,False,129000,2304,40.392825450000004,-3.7141869541784382
 12457,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,102.0,3,2.0,3,True,True,False,False,False,False,False,240000,2353,40.3809981,-3.7279849
 12458,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,3,1.0,1,True,False,False,False,False,False,False,107260,1788,40.3809981,-3.7279849
-12459,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,63.0,3,1.0,2,True,False,False,False,False,False,False,117000,1857,40.3869032,-3.7231858
+12459,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,63.0,3,1.0,2,True,False,False,False,False,False,False,117000,1857,40.3861447,-3.7234674
 12460,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,69.0,2,1.0,1,False,True,False,False,False,False,False,199000,2884,40.392825450000004,-3.7141869541784382
 12461,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,103.0,3,2.0,1,True,True,False,False,False,False,False,140000,1359,40.3809981,-3.7279849
 12462,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,64.0,3,1.0,1,True,False,False,False,True,False,False,127000,1984,40.3742112,-3.744676
@@ -12476,7 +12476,7 @@
 12474,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,94.0,4,1.0,Semi-sótano interior,False,True,False,False,True,False,False,170000,1809,40.392825450000004,-3.7141869541784382
 12475,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,89.0,3,2.0,5,False,True,False,False,True,False,False,230000,2584,40.392825450000004,-3.7141869541784382
 12476,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,89.0,3,2.0,5,False,True,False,False,True,False,False,230000,2584,40.392825450000004,-3.7141869541784382
-12477,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,152.0,4,2.0,1,True,True,True,True,True,True,False,449000,2954,40.3869032,-3.7231858
+12477,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,152.0,4,2.0,1,True,True,True,True,True,True,False,449000,2954,40.3861447,-3.7234674
 12478,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,94.0,4,1.0,Semi-sótano interior,False,True,False,False,False,False,False,170000,1809,40.392825450000004,-3.7141869541784382
 12479,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,59.0,2,1.0,Bajo,False,False,False,False,False,False,False,118000,2000,40.3742112,-3.744676
 12480,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,80.0,3,1.0,2,True,False,False,False,False,False,False,115000,1438,40.3887883,-3.7400441
@@ -12494,14 +12494,14 @@
 12492,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,87.0,2,2.0,2,True,True,True,True,False,False,True,263200,3025,40.3864775,-3.7345594
 12493,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,65.0,3,1.0,2,True,False,False,False,True,False,False,119000,1831,40.3809981,-3.7279849
 12494,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,51.0,2,1.0,Bajo,True,False,False,False,False,False,False,109650,2150,40.3864775,-3.7345594
-12495,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,85.0,3,1.0,2,True,True,False,False,True,False,False,155000,1824,40.3869032,-3.7231858
+12495,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,85.0,3,1.0,2,True,True,False,False,True,False,False,155000,1824,40.3861447,-3.7234674
 12496,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,68.0,2,1.0,4,True,False,False,False,True,False,False,125000,1838,40.3887883,-3.7400441
 12497,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,45.0,2,1.0,3,True,False,False,False,True,False,False,93900,2087,40.3887883,-3.7400441
 12498,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,88.0,3,1.0,3,True,False,False,False,True,False,False,169000,1920,40.3728306,-3.7430863
 12499,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,107.0,4,2.0,6,True,True,False,False,True,True,False,325000,3037,40.3742112,-3.744676
 12500,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,66.0,3,1.0,2,True,False,False,False,True,False,False,136000,2061,40.3742112,-3.744676
 12501,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,89.0,2,1.0,1,True,False,False,False,True,True,False,155000,1742,40.3887883,-3.7400441
-12502,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,98.0,3,1.0,3,True,True,False,False,True,False,False,249900,2550,40.3869032,-3.7231858
+12502,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,98.0,3,1.0,3,True,True,False,False,True,False,False,249900,2550,40.3861447,-3.7234674
 12503,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,63.0,2,1.0,3,True,False,False,False,True,False,False,109900,1744,40.3864775,-3.7345594
 12504,"Vista Alegre, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,68.0,2,1.0,6,True,True,False,False,True,False,False,261000,3838,40.3887883,-3.7400441
 12505,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,2,1.0,3,True,False,False,False,True,False,False,168000,2240,40.392825450000004,-3.7141869541784382
@@ -12510,9 +12510,9 @@
 12508,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,65.0,2,1.0,1,True,False,False,False,True,False,False,119000,1831,40.3864775,-3.7345594
 12509,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,98.0,3,1.0,4,True,False,False,True,True,False,False,215000,2194,40.3864775,-3.7345594
 12510,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,80.0,3,1.0,1,True,True,False,False,False,False,False,163000,2038,40.3809981,-3.7279849
-12511,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,2,1.0,3,True,False,False,False,True,False,False,135000,1800,40.3869032,-3.7231858
+12511,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,2,1.0,3,True,False,False,False,True,False,False,135000,1800,40.3861447,-3.7234674
 12512,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,59.0,2,1.0,4,True,False,False,True,True,True,False,125000,2119,40.3887883,-3.7400441
-12513,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,55.0,2,1.0,2,True,True,False,False,True,False,False,135000,2455,40.3869032,-3.7231858
+12513,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,55.0,2,1.0,2,True,True,False,False,True,False,False,135000,2455,40.3861447,-3.7234674
 12514,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,104.0,2,2.0,7,True,True,True,True,True,False,True,450000,4327,40.3693742,-3.7626949
 12515,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,94.0,4,1.0,Semi-sótano interior,False,False,False,False,True,False,False,170000,1809,40.392825450000004,-3.7141869541784382
 12516,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,59.0,2,1.0,Bajo,False,False,False,False,False,False,False,118000,2000,40.3742112,-3.744676
@@ -12521,7 +12521,7 @@
 12519,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,77.0,3,1.0,3,True,True,False,False,False,False,False,172000,2234,40.3887883,-3.7400441
 12520,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,73.0,2,1.0,3,True,False,False,False,False,False,False,168000,2301,40.392825450000004,-3.7141869541784382
 12521,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,73.0,2,1.0,3,True,False,False,False,True,False,False,168000,2301,40.392825450000004,-3.7141869541784382
-12522,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,87.0,2,1.0,1,True,True,False,False,True,False,False,220000,2529,40.3869032,-3.7231858
+12522,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,87.0,2,1.0,1,True,True,False,False,True,False,False,220000,2529,40.3861447,-3.7234674
 12523,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,65.0,2,1.0,4,True,False,False,False,True,False,False,100000,1538,40.3809981,-3.7279849
 12524,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,50.0,3,1.0,3,True,False,False,False,True,False,False,96000,1920,40.3864775,-3.7345594
 12525,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,68.0,2,1.0,3,True,True,False,False,True,False,False,195000,2868,40.392825450000004,-3.7141869541784382
@@ -12567,7 +12567,7 @@
 12565,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,78.0,3,1.0,1,True,True,False,False,False,False,False,155000,1987,40.3742112,-3.744676
 12566,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,85.0,3,1.0,4,True,False,False,False,False,False,False,161200,1896,40.3887883,-3.7400441
 12567,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,45.0,1,1.0,Bajo,True,False,False,False,False,False,False,145000,3222,40.3742112,-3.744676
-12568,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,65.0,3,1.0,3,True,False,False,False,False,False,False,146000,2246,40.3869032,-3.7231858
+12568,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,65.0,3,1.0,3,True,False,False,False,False,False,False,146000,2246,40.3861447,-3.7234674
 12569,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,226.0,4,2.0,6,True,True,True,True,True,False,False,549000,2429,40.3693742,-3.7626949
 12570,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,3,1.0,1,True,True,False,False,False,False,False,230000,3286,40.3887883,-3.7400441
 12571,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,77.0,3,1.0,1,True,True,False,False,True,False,True,230000,2987,40.3887883,-3.7400441
@@ -12575,7 +12575,7 @@
 12573,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,66.0,2,1.0,4,True,False,False,False,True,False,False,114000,1727,40.3887883,-3.7400441
 12574,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,85.0,3,1.0,2,True,False,False,True,True,False,False,155000,1824,40.3864775,-3.7345594
 12575,"Abrantes, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,50.0,1,1.0,3,True,True,False,True,True,False,False,159900,3198,40.3809981,-3.7279849
-12576,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,87.0,3,1.0,3,True,False,False,False,False,False,False,249000,2862,40.3869032,-3.7231858
+12576,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,87.0,3,1.0,3,True,False,False,False,False,False,False,249000,2862,40.3861447,-3.7234674
 12577,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,103.0,3,1.0,3,True,False,False,False,False,True,False,221000,2146,40.392825450000004,-3.7141869541784382
 12578,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,58.0,2,1.0,3,True,False,False,False,True,False,False,149900,2584,40.3887883,-3.7400441
 12579,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,176.0,5,2.0,4,True,True,True,True,True,False,False,314900,1789,40.3887883,-3.7400441
@@ -12585,13 +12585,13 @@
 12583,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,92.0,3,1.0,7,True,True,False,False,True,False,False,340000,3696,40.392825450000004,-3.7141869541784382
 12584,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,2,1.0,3,True,False,False,False,True,False,False,83000,1383,40.3728306,-3.7430863
 12585,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,55.0,3,1.0,2,True,False,False,False,True,False,False,84000,1527,40.3864775,-3.7345594
-12586,"Opañel, Carabanchel(Madrid)",HouseType 4: Dúplex,True,False,110.0,2,1.0,Bajo,True,False,False,True,False,False,False,112000,1018,40.3869032,-3.7231858
+12586,"Opañel, Carabanchel(Madrid)",HouseType 4: Dúplex,True,False,110.0,2,1.0,Bajo,True,False,False,True,False,False,False,112000,1018,40.3861447,-3.7234674
 12587,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,72.0,3,1.0,4,True,True,False,False,False,False,False,169000,2347,40.3809981,-3.7279849
-12588,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,50.0,2,1.0,6,True,True,False,False,True,True,False,144000,2880,40.3869032,-3.7231858
+12588,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,50.0,2,1.0,6,True,True,False,False,True,True,False,144000,2880,40.3861447,-3.7234674
 12589,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,98.0,3,3.0,5,True,True,False,False,False,False,False,270000,2755,40.3742112,-3.744676
 12590,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,True,57.0,1,1.0,Bajo,True,True,True,False,False,False,False,156000,2737,40.3864775,-3.7345594
 12591,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,True,123.0,2,2.0,Bajo,True,True,True,False,False,False,False,244000,1984,40.3864775,-3.7345594
-12592,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,80.0,3,1.0,1,True,False,False,True,True,False,False,150000,1875,40.3869032,-3.7231858
+12592,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,80.0,3,1.0,1,True,False,False,True,True,False,False,150000,1875,40.3861447,-3.7234674
 12593,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,47.0,2,1.0,1,True,False,False,True,True,False,False,100000,2128,40.3742112,-3.744676
 12594,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,80.0,3,1.0,Bajo,True,False,False,False,False,False,False,169900,2124,40.3887883,-3.7400441
 12595,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,59.0,3,1.0,2,True,False,False,False,False,False,False,109000,1847,40.3728306,-3.7430863
@@ -12612,25 +12612,25 @@
 12610,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,433.0,4,3.0,Bajo,True,True,True,True,True,False,False,395000,912,40.3742112,-3.744676
 12611,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,92.0,3,1.0,7,True,True,False,False,True,False,False,340000,3696,40.392825450000004,-3.7141869541784382
 12612,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,57.0,3,1.0,4,True,False,False,False,False,False,False,127600,2239,40.3728306,-3.7430863
-12613,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,71.0,3,1.0,3,True,False,False,False,False,False,False,125000,1761,40.3869032,-3.7231858
+12613,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,71.0,3,1.0,3,True,False,False,False,False,False,False,125000,1761,40.3861447,-3.7234674
 12614,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,65.0,3,1.0,2,True,False,False,False,True,False,False,162000,2492,40.392825450000004,-3.7141869541784382
 12615,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,64.0,3,1.0,4,True,False,False,True,True,False,False,124000,1938,40.3742112,-3.744676
 12616,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,90.0,3,1.0,7,True,True,False,False,True,False,False,235000,2611,40.392825450000004,-3.7141869541784382
 12617,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,105.0,4,2.0,2,True,True,True,False,True,False,False,287000,2733,40.3742112,-3.744676
 12618,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,85.0,3,1.0,Bajo,True,True,False,False,False,False,False,139000,1635,40.392825450000004,-3.7141869541784382
-12619,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,500.0,6,4.0,Bajo,True,False,False,False,False,False,False,360000,720,40.3869032,-3.7231858
+12619,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,500.0,6,4.0,Bajo,True,False,False,False,False,False,False,360000,720,40.3861447,-3.7234674
 12620,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,54.0,2,1.0,2,True,False,False,False,True,False,False,119900,2220,40.3887883,-3.7400441
 12621,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,58.0,1,1.0,Bajo,True,True,False,False,False,False,False,160000,2759,40.3742112,-3.744676
 12622,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,65.0,2,1.0,2,True,False,False,False,False,False,False,120000,1846,40.3809981,-3.7279849
 12623,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,100.0,3,2.0,3,True,True,True,False,False,False,False,269000,2690,40.3809981,-3.7279849
 12624,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,78.0,3,2.0,1,True,True,False,False,True,False,False,186000,2385,40.3809981,-3.7279849
 12625,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,80.0,4,1.0,5,True,False,False,False,True,False,False,138000,1725,40.3887883,-3.7400441
-12626,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,77.0,3,1.0,2,True,False,False,False,False,False,False,159000,2065,40.3869032,-3.7231858
+12626,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,77.0,3,1.0,2,True,False,False,False,False,False,False,159000,2065,40.3861447,-3.7234674
 12627,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,True,110.0,3,2.0,2,True,True,True,False,False,False,False,289500,2632,40.3742112,-3.744676
 12628,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,True,90.0,2,2.0,2,True,True,True,False,False,False,False,245000,2722,40.3742112,-3.744676
 12629,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,57.0,2,1.0,1,True,False,False,False,False,False,False,120000,2105,40.3887883,-3.7400441
 12630,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,42.0,2,1.0,4,True,False,False,False,False,False,False,128000,3048,40.3742112,-3.744676
-12631,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,79.0,3,1.0,4,True,False,False,False,True,False,False,140000,1772,40.3869032,-3.7231858
+12631,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,79.0,3,1.0,4,True,False,False,False,True,False,False,140000,1772,40.3861447,-3.7234674
 12632,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,145.0,4,3.0,3,True,True,True,True,False,False,True,335000,2310,40.3809981,-3.7279849
 12633,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,76.0,2,1.0,2,True,True,False,True,False,False,False,175000,2303,40.3742112,-3.744676
 12634,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,110.0,3,2.0,2,True,True,True,True,False,False,True,285000,2591,40.3864775,-3.7345594
@@ -12647,7 +12647,7 @@
 12645,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,170.0,2,2.0,Bajo,True,False,True,False,True,False,False,325000,1912,40.3742112,-3.744676
 12646,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,72.0,2,1.0,2,True,True,False,False,True,False,False,137500,1910,40.3809981,-3.7279849
 12647,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,54.0,2,1.0,4,True,False,False,False,False,True,False,105000,1944,40.3742112,-3.744676
-12648,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,50.0,2,1.0,1,True,True,False,False,False,False,False,119000,2380,40.3869032,-3.7231858
+12648,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,50.0,2,1.0,1,True,True,False,False,False,False,False,119000,2380,40.3861447,-3.7234674
 12649,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,53.0,3,1.0,Bajo,True,False,False,False,False,False,False,115000,2170,40.3864775,-3.7345594
 12650,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,4,1.0,3,True,False,False,False,True,False,False,145000,1933,40.3887883,-3.7400441
 12651,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,107.0,2,2.0,3,False,True,True,True,False,False,False,347000,3243,40.3742112,-3.744676
@@ -12662,11 +12662,11 @@
 12660,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,95.0,3,1.0,3,False,True,False,False,False,False,False,219000,2305,40.3887883,-3.7400441
 12661,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,True,59.0,1,1.0,Bajo,True,True,False,True,False,False,True,163500,2771,40.3864775,-3.7345594
 12662,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,True,86.0,2,2.0,1,True,True,True,True,True,False,True,257900,2999,40.3864775,-3.7345594
-12663,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,79.0,3,1.0,1,True,False,False,False,True,False,False,169000,2139,40.3869032,-3.7231858
+12663,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,79.0,3,1.0,1,True,False,False,False,True,False,False,169000,2139,40.3861447,-3.7234674
 12664,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,124.0,3,2.0,6,True,True,True,True,False,False,True,318500,2569,40.3693742,-3.7626949
 12665,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,32.0,1,1.0,Bajo,False,False,False,False,False,False,False,65000,2031,40.3742112,-3.744676
 12666,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,50.0,2,1.0,1,True,False,False,False,True,False,False,148000,2960,40.3887883,-3.7400441
-12667,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,160.0,2,2.0,Bajo,True,False,False,False,False,False,False,180000,1125,40.3869032,-3.7231858
+12667,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,160.0,2,2.0,Bajo,True,False,False,False,False,False,False,180000,1125,40.3861447,-3.7234674
 12668,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,93.0,3,2.0,1,True,True,False,False,False,False,False,165000,1774,40.3809981,-3.7279849
 12669,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,67.0,3,1.0,3,True,True,False,False,False,False,False,133070,1986,40.3864775,-3.7345594
 12670,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,88.0,3,1.0,2,True,False,False,False,False,False,False,115000,1307,40.3887883,-3.7400441
@@ -12675,7 +12675,7 @@
 12673,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,54.0,1,1.0,2,True,True,True,True,False,False,True,194000,3593,40.3693742,-3.7626949
 12674,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,90.0,2,2.0,3,True,True,False,True,True,False,False,378000,4200,40.392825450000004,-3.7141869541784382
 12675,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,88.0,3,1.0,3,True,True,True,False,True,False,False,185000,2102,40.3809981,-3.7279849
-12676,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,120.0,4,1.0,2,True,False,False,False,False,False,False,190000,1583,40.3869032,-3.7231858
+12676,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,120.0,4,1.0,2,True,False,False,False,False,False,False,190000,1583,40.3861447,-3.7234674
 12677,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,50.0,1,1.0,5,True,True,True,True,False,False,True,174000,3480,40.3693742,-3.7626949
 12678,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,70.0,2,1.0,1,False,False,False,True,False,False,False,122000,1743,40.3887883,-3.7400441
 12679,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,65.0,1,1.0,Bajo,True,False,False,False,False,False,False,118000,1815,40.3809981,-3.7279849
@@ -12692,35 +12692,35 @@
 12690,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,124.0,4,3.0,2,True,True,True,False,False,True,False,299000,2411,40.3887883,-3.7400441
 12691,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,65.0,3,1.0,1,True,True,False,False,False,False,False,193000,2969,40.392825450000004,-3.7141869541784382
 12692,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,91.0,3,1.0,4,True,False,False,False,True,True,False,129000,1418,40.3864775,-3.7345594
-12693,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,66.0,3,1.0,1,True,False,False,False,True,True,False,132000,2000,40.3869032,-3.7231858
-12694,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,118.0,4,1.0,1,True,False,False,False,True,False,False,212000,1797,40.3869032,-3.7231858
+12693,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,66.0,3,1.0,1,True,False,False,False,True,True,False,132000,2000,40.3861447,-3.7234674
+12694,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,118.0,4,1.0,1,True,False,False,False,True,False,False,212000,1797,40.3861447,-3.7234674
 12695,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,1,1.0,Bajo,True,True,True,True,True,False,False,185000,2467,40.3728306,-3.7430863
-12696,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,72.0,2,2.0,1,True,False,False,False,True,True,False,166000,2306,40.3869032,-3.7231858
+12696,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,72.0,2,2.0,1,True,False,False,False,True,True,False,166000,2306,40.3861447,-3.7234674
 12697,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,81.0,3,1.0,2,True,False,False,False,True,True,False,125000,1543,40.3864775,-3.7345594
 12698,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,51.0,2,1.0,2,True,False,False,False,False,False,False,120000,2353,40.3887883,-3.7400441
-12699,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,3,1.0,1,True,False,False,False,True,True,False,190000,2714,40.3869032,-3.7231858
-12700,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,50.0,2,1.0,2,True,False,False,False,True,True,False,165000,3300,40.3869032,-3.7231858
+12699,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,3,1.0,1,True,False,False,False,True,True,False,190000,2714,40.3861447,-3.7234674
+12700,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,50.0,2,1.0,2,True,False,False,False,True,True,False,165000,3300,40.3861447,-3.7234674
 12701,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,88.0,2,2.0,1,True,True,True,True,False,False,True,260000,2955,40.3742112,-3.744676
-12702,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,128.0,4,1.0,2,True,False,False,False,True,False,False,316000,2469,40.3869032,-3.7231858
+12702,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,128.0,4,1.0,2,True,False,False,False,True,False,False,316000,2469,40.3861447,-3.7234674
 12703,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,62.0,3,1.0,2,True,False,False,False,True,False,False,120000,1935,40.3864775,-3.7345594
 12704,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,105.0,3,2.0,3,True,True,False,False,False,False,True,300000,2857,40.3809981,-3.7279849
 12705,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,68.0,2,1.0,3,True,True,False,False,False,False,False,195000,2868,40.392825450000004,-3.7141869541784382
-12706,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,62.0,2,1.0,1,True,True,False,False,False,False,False,132600,2139,40.3869032,-3.7231858
+12706,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,62.0,2,1.0,1,True,True,False,False,False,False,False,132600,2139,40.3861447,-3.7234674
 12707,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,65.0,3,1.0,4,True,False,False,False,False,False,False,135000,2077,40.3887883,-3.7400441
 12708,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,80.0,3,1.0,3,True,True,False,False,False,True,False,272000,3400,40.3742112,-3.744676
 12709,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,110.0,3,2.0,1,True,True,False,False,True,False,False,299000,2718,40.3742112,-3.744676
 12710,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,79.0,3,1.0,1,True,True,False,False,False,False,False,170000,2152,40.3742112,-3.744676
 12711,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,67.0,2,1.0,3,False,False,False,False,True,False,False,148000,2209,40.3864775,-3.7345594
 12712,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,105.0,3,2.0,1,True,False,False,False,True,False,False,315000,3000,40.3742112,-3.744676
-12713,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,62.0,3,1.0,3,False,True,False,False,False,False,False,225000,3629,40.3869032,-3.7231858
+12713,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,62.0,3,1.0,3,False,True,False,False,False,False,False,225000,3629,40.3861447,-3.7234674
 12714,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,140.0,6,6.0,Bajo,True,True,False,False,False,False,False,379000,2707,40.392825450000004,-3.7141869541784382
 12715,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,80.0,3,1.0,2,True,True,False,False,False,False,False,159900,1999,40.3809981,-3.7279849
 12716,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,99.0,3,2.0,1,True,True,False,False,True,False,False,250000,2525,40.3809981,-3.7279849
-12717,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,85.0,3,1.0,2,True,False,False,False,True,False,False,143000,1682,40.3869032,-3.7231858
+12717,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,85.0,3,1.0,2,True,False,False,False,True,False,False,143000,1682,40.3861447,-3.7234674
 12718,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,80.0,1,2.0,Bajo,True,False,False,False,False,False,False,178000,2225,40.3864775,-3.7345594
 12719,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,84.0,3,2.0,2,True,False,False,False,True,False,False,169900,2023,40.3742112,-3.744676
 12720,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,90.0,3,2.0,2,True,False,False,True,True,False,False,115000,1278,40.3809981,-3.7279849
-12721,"Opañel, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,95.0,2,2.0,3,True,True,False,True,True,False,False,305000,3211,40.3869032,-3.7231858
+12721,"Opañel, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,95.0,2,2.0,3,True,True,False,True,True,False,False,305000,3211,40.3861447,-3.7234674
 12722,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,3,1.0,4,True,True,False,False,True,False,False,122500,1633,40.3809981,-3.7279849
 12723,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,85.0,3,1.0,8,True,True,False,False,False,False,False,156000,1835,40.3809981,-3.7279849
 12724,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,133.0,3,1.0,2,True,False,False,False,True,False,False,280000,2105,40.3887883,-3.7400441
@@ -12739,7 +12739,7 @@
 12737,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,63.0,3,1.0,Bajo,True,False,False,False,False,False,False,113000,1794,40.3742112,-3.744676
 12738,"San Isidro, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,99.0,3,2.0,3,True,True,True,True,True,False,True,430000,4343,40.3742112,-3.744676
 12739,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,114.0,3,2.0,1,True,True,False,True,False,True,True,288000,2526,40.3864775,-3.7345594
-12740,"Opañel, Carabanchel(Madrid)",HouseType 4: Dúplex,False,False,62.0,1,2.0,Bajo,False,False,False,False,True,False,False,150000,2419,40.3869032,-3.7231858
+12740,"Opañel, Carabanchel(Madrid)",HouseType 4: Dúplex,False,False,62.0,1,2.0,Bajo,False,False,False,False,True,False,False,150000,2419,40.3861447,-3.7234674
 12741,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,2,1.0,4,True,True,False,False,False,True,False,159000,2271,40.3809981,-3.7279849
 12742,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,58.0,2,1.0,2,True,False,False,False,True,False,False,140000,2414,40.3728306,-3.7430863
 12743,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,80.0,2,2.0,2,True,True,True,True,False,True,True,295000,3688,40.3693742,-3.7626949
@@ -12756,7 +12756,7 @@
 12754,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,86.0,3,1.0,2,True,False,False,False,True,False,False,160000,1860,40.3728306,-3.7430863
 12755,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,85.0,2,2.0,2,True,True,True,True,False,False,True,249000,2929,40.3693742,-3.7626949
 12756,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,62.0,1,1.0,Semi-sótano interior,False,False,False,False,True,False,False,93900,1515,40.3864775,-3.7345594
-12757,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,70.0,3,1.0,6,True,True,False,False,True,False,False,124000,1771,40.3869032,-3.7231858
+12757,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,70.0,3,1.0,6,True,True,False,False,True,False,False,124000,1771,40.3861447,-3.7234674
 12758,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,61.0,2,1.0,4,True,False,False,False,False,False,False,124000,2033,40.3864775,-3.7345594
 12759,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,51.0,1,1.0,Bajo,True,True,False,True,True,False,False,105000,2059,40.3728306,-3.7430863
 12760,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,57.0,3,1.0,Bajo,True,False,False,False,False,False,False,85000,1491,40.3809981,-3.7279849
@@ -12774,9 +12774,9 @@
 12772,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,99.0,3,2.0,3,True,False,False,False,True,False,False,170000,1717,40.3742112,-3.744676
 12773,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,85.0,3,1.0,Bajo,True,True,False,False,False,False,False,226000,2659,40.392825450000004,-3.7141869541784382
 12774,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,54.0,2,1.0,2,True,False,False,False,True,False,False,105000,1944,40.3864775,-3.7345594
-12775,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,81.0,3,2.0,4,True,True,False,False,True,False,False,249000,3074,40.3869032,-3.7231858
+12775,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,81.0,3,2.0,4,True,True,False,False,True,False,False,249000,3074,40.3861447,-3.7234674
 12776,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,59.0,3,1.0,Bajo,True,False,False,False,False,False,False,130000,2203,40.3809981,-3.7279849
-12777,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,100.0,1,1.0,Bajo,True,False,False,False,True,False,False,252800,2528,40.3869032,-3.7231858
+12777,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,100.0,1,1.0,Bajo,True,False,False,False,True,False,False,252800,2528,40.3861447,-3.7234674
 12778,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,95.0,1,1.0,Bajo,True,False,False,False,True,False,False,151151,1591,40.3864775,-3.7345594
 12779,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,140.0,3,3.0,1,False,False,False,False,False,False,False,315000,2250,40.3728306,-3.7430863
 12780,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,50.0,2,1.0,2,True,False,False,False,False,True,False,120000,2400,40.3887883,-3.7400441
@@ -12784,13 +12784,13 @@
 12782,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,86.0,3,1.0,2,True,False,True,True,True,True,False,199900,2324,40.3887883,-3.7400441
 12783,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,130.0,4,3.0,1,True,False,False,False,True,False,False,300000,2308,40.3742112,-3.744676
 12784,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,3,1.0,6,True,True,False,False,False,False,False,255000,3643,40.392825450000004,-3.7141869541784382
-12785,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,58.0,3,1.0,2,True,True,False,False,True,False,False,225000,3879,40.3869032,-3.7231858
+12785,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,58.0,3,1.0,2,True,True,False,False,True,False,False,225000,3879,40.3861447,-3.7234674
 12786,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,104.0,3,1.0,1,False,True,False,False,True,False,False,200000,1923,40.3887883,-3.7400441
 12787,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,66.0,3,1.0,1,True,False,False,False,True,False,False,155000,2348,40.3742112,-3.744676
 12788,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,3,1.0,3,True,False,False,False,False,False,False,150000,2000,40.3887883,-3.7400441
 12789,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,85.0,3,1.0,2,True,False,False,False,False,False,False,136000,1600,40.3887883,-3.7400441
 12790,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,2,1.0,2,True,False,False,False,True,False,False,149900,2141,40.3728306,-3.7430863
-12791,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,63.0,2,1.0,Semi-sótano exterior,True,False,False,False,True,False,False,160000,2540,40.3869032,-3.7231858
+12791,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,63.0,2,1.0,Semi-sótano exterior,True,False,False,False,True,False,False,160000,2540,40.3861447,-3.7234674
 12792,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,90.0,4,2.0,3,True,False,False,False,True,False,False,172000,1911,40.3887883,-3.7400441
 12793,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,2,2.0,2,True,True,True,True,False,False,True,245000,3267,40.3693742,-3.7626949
 12794,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,110.0,3,2.0,1,True,True,False,True,False,False,False,180000,1636,40.3809981,-3.7279849
@@ -12808,7 +12808,7 @@
 12806,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,130.0,3,2.0,5,True,True,True,False,False,False,True,319000,2454,40.3693742,-3.7626949
 12807,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,92.0,3,2.0,Bajo,True,False,False,False,False,False,False,194000,2109,40.3742112,-3.744676
 12808,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,77.0,3,1.0,3,True,False,False,False,True,True,False,135000,1753,40.3809981,-3.7279849
-12809,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,65.0,3,1.0,3,True,False,False,False,False,False,False,146000,2246,40.3869032,-3.7231858
+12809,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,65.0,3,1.0,3,True,False,False,False,False,False,False,146000,2246,40.3861447,-3.7234674
 12810,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,54.0,2,1.0,1,True,False,False,False,False,True,False,120000,2222,40.3742112,-3.744676
 12811,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,2,2.0,Entreplanta exterior,True,True,True,False,False,False,True,235000,3133,40.3864775,-3.7345594
 12812,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,2,1.0,3,True,True,False,False,True,False,False,130000,2167,40.3809981,-3.7279849
@@ -12841,7 +12841,7 @@
 12839,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,65.0,2,1.0,Bajo,True,False,False,True,False,False,False,98000,1508,40.3864775,-3.7345594
 12840,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,110.0,3,1.0,1,True,False,False,False,True,True,False,220000,2000,40.3864775,-3.7345594
 12841,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,2,1.0,3,True,False,False,False,True,False,False,119000,1587,40.3887883,-3.7400441
-12842,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,66.0,3,1.0,3,True,False,False,False,True,False,False,150000,2273,40.3869032,-3.7231858
+12842,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,66.0,3,1.0,3,True,False,False,False,True,False,False,150000,2273,40.3861447,-3.7234674
 12843,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,3,1.0,1,True,True,False,False,False,False,False,160000,2133,40.3809981,-3.7279849
 12844,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,67.0,3,1.0,1,True,False,False,False,True,False,False,118000,1761,40.3864775,-3.7345594
 12845,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,70.0,3,1.0,3,True,True,False,False,False,False,False,145000,2071,40.3887883,-3.7400441
@@ -12853,10 +12853,10 @@
 12851,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,65.0,2,1.0,1,True,False,False,False,True,False,False,121600,1871,40.3809981,-3.7279849
 12852,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,100.0,3,2.0,3,True,True,True,True,False,False,True,390000,3900,40.3887883,-3.7400441
 12853,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,110.0,3,2.0,1,True,True,True,True,False,True,True,340000,3091,40.3693742,-3.7626949
-12854,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,3,1.0,1,True,False,False,False,False,True,False,157000,2243,40.3869032,-3.7231858
-12855,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,96.0,3,1.0,1,True,False,True,True,False,False,False,230000,2396,40.3869032,-3.7231858
-12856,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,85.0,3,1.0,1,True,False,False,False,True,False,False,169000,1988,40.3869032,-3.7231858
-12857,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,59.0,3,1.0,1,True,False,False,False,True,False,False,125000,2119,40.3869032,-3.7231858
+12854,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,3,1.0,1,True,False,False,False,False,True,False,157000,2243,40.3861447,-3.7234674
+12855,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,96.0,3,1.0,1,True,False,True,True,False,False,False,230000,2396,40.3861447,-3.7234674
+12856,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,85.0,3,1.0,1,True,False,False,False,True,False,False,169000,1988,40.3861447,-3.7234674
+12857,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,59.0,3,1.0,1,True,False,False,False,True,False,False,125000,2119,40.3861447,-3.7234674
 12858,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,57.0,3,1.0,4,True,False,False,False,True,False,False,127600,2239,40.3728306,-3.7430863
 12859,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,57.0,3,1.0,4,True,False,False,False,True,False,False,127600,2239,40.3728306,-3.7430863
 12860,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,50.0,1,1.0,2,True,True,False,False,False,True,False,128000,2560,40.3728306,-3.7430863
@@ -12864,7 +12864,7 @@
 12862,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,64.0,3,1.0,Entreplanta exterior,True,False,False,False,False,False,False,108000,1688,40.3742112,-3.744676
 12863,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,90.0,2,2.0,6,True,True,True,True,False,False,True,265000,2944,40.3693742,-3.7626949
 12864,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,83.0,3,1.0,Bajo,True,False,False,False,False,False,False,159000,1916,40.3742112,-3.744676
-12865,"Opañel, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,93.0,3,1.0,7,True,True,False,False,True,False,False,420000,4516,40.3869032,-3.7231858
+12865,"Opañel, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,93.0,3,1.0,7,True,True,False,False,True,False,False,420000,4516,40.3861447,-3.7234674
 12866,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,100.0,3,1.0,Bajo,True,True,False,False,False,False,False,138000,1380,40.3864775,-3.7345594
 12867,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,64.0,3,1.0,Bajo,True,False,False,False,True,False,False,160000,2500,40.3864775,-3.7345594
 12868,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,65.0,3,1.0,3,True,False,False,False,True,False,False,120000,1846,40.3728306,-3.7430863
@@ -12874,13 +12874,13 @@
 12872,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,88.0,3,1.0,4,True,False,False,False,False,True,False,135000,1534,40.3864775,-3.7345594
 12873,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,76.0,3,1.0,Bajo,True,True,False,False,True,False,False,162000,2132,40.3887883,-3.7400441
 12874,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,55.0,1,1.0,1,True,True,True,True,True,False,False,220000,4000,40.392825450000004,-3.7141869541784382
-12875,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,65.0,3,1.0,1,True,False,False,False,True,False,False,129000,1985,40.3869032,-3.7231858
+12875,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,65.0,3,1.0,1,True,False,False,False,True,False,False,129000,1985,40.3861447,-3.7234674
 12876,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,50.0,3,1.0,2,True,False,False,False,True,False,False,135000,2700,40.3864775,-3.7345594
 12877,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,57.0,3,1.0,3,True,False,False,True,False,False,False,105000,1842,40.3742112,-3.744676
 12878,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,55.0,2,1.0,4,True,False,False,False,False,False,False,88320,1606,40.3887883,-3.7400441
 12879,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,51.0,2,1.0,2,True,False,False,False,False,False,False,82872,1625,40.3864775,-3.7345594
 12880,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,105.0,3,2.0,2,True,True,True,True,False,False,True,305000,2905,40.3809981,-3.7279849
-12881,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,52.0,2,1.0,4,True,False,False,False,True,False,False,170000,3269,40.3869032,-3.7231858
+12881,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,52.0,2,1.0,4,True,False,False,False,True,False,False,170000,3269,40.3861447,-3.7234674
 12882,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,34.0,1,1.0,1,True,True,False,True,True,True,False,135000,3971,40.3742112,-3.744676
 12883,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,62.0,2,1.0,Entreplanta exterior,True,False,False,True,False,False,False,160000,2581,40.3742112,-3.744676
 12884,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,71.0,3,1.0,1,True,False,False,False,False,False,False,126000,1775,40.3742112,-3.744676
@@ -12912,13 +12912,13 @@
 12910,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,2,1.0,Bajo,True,False,False,False,True,False,False,112000,1600,40.3809981,-3.7279849
 12911,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 5: Áticos,True,False,80.0,2,2.0,6,True,True,True,True,True,False,True,359000,4488,40.3693742,-3.7626949
 12912,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,78.0,2,2.0,Bajo,True,True,True,True,False,False,True,235000,3013,40.3728306,-3.7430863
-12913,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,76.0,2,1.0,4,True,False,False,True,True,False,False,200000,2632,40.3869032,-3.7231858
-12914,"Opañel, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,78.0,1,1.0,3,True,True,True,False,True,False,False,240000,3077,40.3869032,-3.7231858
-12915,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,55.0,1,1.0,2,True,True,True,False,False,False,False,195000,3545,40.3869032,-3.7231858
-12916,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,71.0,2,1.0,1,False,False,False,True,True,False,False,125000,1761,40.3869032,-3.7231858
+12913,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,76.0,2,1.0,4,True,False,False,True,True,False,False,200000,2632,40.3861447,-3.7234674
+12914,"Opañel, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,78.0,1,1.0,3,True,True,True,False,True,False,False,240000,3077,40.3861447,-3.7234674
+12915,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,55.0,1,1.0,2,True,True,True,False,False,False,False,195000,3545,40.3861447,-3.7234674
+12916,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,71.0,2,1.0,1,False,False,False,True,True,False,False,125000,1761,40.3861447,-3.7234674
 12917,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,80.0,3,1.0,1,True,False,False,False,True,False,False,116500,1456,40.3864775,-3.7345594
 12918,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,45.0,1,1.0,Bajo,True,True,False,False,False,False,False,99000,2200,40.3887883,-3.7400441
-12919,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,79.0,2,1.0,4,True,False,False,False,False,False,False,160000,2025,40.3869032,-3.7231858
+12919,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,79.0,2,1.0,4,True,False,False,False,False,False,False,160000,2025,40.3861447,-3.7234674
 12920,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,67.0,3,1.0,2,True,False,False,False,True,False,False,115000,1716,40.3742112,-3.744676
 12921,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,88.0,3,1.0,2,True,False,False,False,False,False,False,115000,1307,40.3887883,-3.7400441
 12922,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,100.0,3,1.0,3,True,True,False,False,True,False,False,130000,1300,40.3809981,-3.7279849
@@ -12936,7 +12936,7 @@
 12934,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,3,1.0,3,True,False,False,False,False,False,False,137000,1827,40.3809981,-3.7279849
 12935,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,3,1.0,1,True,False,False,False,True,False,False,159000,2120,40.3887883,-3.7400441
 12936,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,103.0,4,2.0,1,True,True,False,False,True,True,False,379000,3680,40.3742112,-3.744676
-12937,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,95.0,3,1.0,2,False,True,True,False,True,False,False,315000,3316,40.3869032,-3.7231858
+12937,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,95.0,3,1.0,2,False,True,True,False,True,False,False,315000,3316,40.3861447,-3.7234674
 12938,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,2,1.0,1,True,True,False,False,True,False,False,195000,3250,40.3864775,-3.7345594
 12939,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,2,2.0,7,False,True,True,True,True,False,True,235000,3133,40.3809981,-3.7279849
 12940,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,55.0,2,1.0,2,True,False,False,False,False,False,False,130000,2364,40.3887883,-3.7400441
@@ -12974,10 +12974,10 @@
 12972,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,3,1.0,1,True,True,False,False,True,True,False,220000,3143,40.3742112,-3.744676
 12973,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,90.0,3,1.0,Bajo,True,False,False,False,True,False,False,185000,2056,40.3864775,-3.7345594
 12974,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,38.0,1,1.0,Entreplanta exterior,True,True,False,False,False,False,False,112000,2947,40.3864775,-3.7345594
-12975,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,3,1.0,3,True,False,False,False,True,True,False,124999,1667,40.3869032,-3.7231858
+12975,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,3,1.0,3,True,False,False,False,True,True,False,124999,1667,40.3861447,-3.7234674
 12976,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,65.0,1,1.0,2,True,True,False,False,False,False,False,220000,3385,40.392825450000004,-3.7141869541784382
-12977,"Opañel, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,87.0,2,1.0,3,True,True,True,False,True,False,False,220000,2529,40.3869032,-3.7231858
-12978,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,3,1.0,3,True,False,False,False,False,False,False,150000,2000,40.3869032,-3.7231858
+12977,"Opañel, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,87.0,2,1.0,3,True,True,True,False,True,False,False,220000,2529,40.3861447,-3.7234674
+12978,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,3,1.0,3,True,False,False,False,False,False,False,150000,2000,40.3861447,-3.7234674
 12979,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,65.0,2,1.0,4,True,False,False,False,False,False,False,112000,1723,40.3887883,-3.7400441
 12980,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,58.0,1,1.0,Bajo,True,False,False,False,False,False,False,160000,2759,40.3742112,-3.744676
 12981,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,33.0,1,1.0,Bajo,False,True,False,False,False,False,False,120000,3636,40.3742112,-3.744676
@@ -12986,22 +12986,22 @@
 12984,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,58.0,2,1.0,2,True,False,False,False,True,False,False,104500,1802,40.3742112,-3.744676
 12985,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,100.0,3,1.0,3,True,True,False,False,False,False,False,160000,1600,40.3809981,-3.7279849
 12986,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,3,1.0,2,True,False,False,False,True,False,False,175000,2333,40.3809981,-3.7279849
-12987,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,66.0,4,1.0,Bajo,True,False,False,False,False,False,False,180000,2727,40.3869032,-3.7231858
-12988,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,35.0,1,1.0,3,False,False,False,False,False,False,False,87000,2486,40.3869032,-3.7231858
+12987,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,66.0,4,1.0,Bajo,True,False,False,False,False,False,False,180000,2727,40.3861447,-3.7234674
+12988,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,35.0,1,1.0,3,False,False,False,False,False,False,False,87000,2486,40.3861447,-3.7234674
 12989,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,55.0,2,1.0,4,False,False,False,False,False,False,False,120000,2182,40.3887883,-3.7400441
-12990,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,2,1.0,2,True,False,False,False,False,False,False,170000,2267,40.3869032,-3.7231858
-12991,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,51.0,1,1.0,1,True,True,False,False,False,False,False,192000,3765,40.3869032,-3.7231858
+12990,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,2,1.0,2,True,False,False,False,False,False,False,170000,2267,40.3861447,-3.7234674
+12991,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,51.0,1,1.0,1,True,True,False,False,False,False,False,192000,3765,40.3861447,-3.7234674
 12992,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,140.0,4,3.0,Bajo,True,False,False,False,False,False,False,150000,1071,40.3742112,-3.744676
 12993,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,80.0,3,1.0,Bajo,True,True,False,False,False,False,False,226000,2825,40.392825450000004,-3.7141869541784382
 12994,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,69.0,2,1.0,2,True,True,True,True,False,True,False,260000,3768,40.3864775,-3.7345594
-12995,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,100.0,3,2.0,2,True,True,True,True,True,False,False,250000,2500,40.3869032,-3.7231858
+12995,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,100.0,3,2.0,2,True,True,True,True,True,False,False,250000,2500,40.3861447,-3.7234674
 12996,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,65.0,2,1.0,3,True,True,False,False,False,True,False,160000,2462,40.3887883,-3.7400441
 12997,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,93.0,3,1.0,3,True,False,False,False,False,False,False,161000,1731,40.3809981,-3.7279849
 12998,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,95.0,3,2.0,4,True,True,False,False,False,False,False,158000,1663,40.3728306,-3.7430863
 12999,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,2,1.0,2,True,False,False,False,True,False,False,137000,2283,40.3742112,-3.744676
 13000,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,85.0,2,2.0,3,True,True,True,True,False,False,True,287000,3376,40.3693742,-3.7626949
 13001,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,120.0,4,2.0,3,True,True,False,False,False,False,False,318000,2650,40.392825450000004,-3.7141869541784382
-13002,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,85.0,3,1.0,1,False,True,False,False,False,False,False,185000,2176,40.3869032,-3.7231858
+13002,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,85.0,3,1.0,1,False,True,False,False,False,False,False,185000,2176,40.3861447,-3.7234674
 13003,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,2,1.0,1,True,False,False,True,False,False,False,170000,2429,40.3728306,-3.7430863
 13004,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,50.0,2,1.0,2,True,False,False,False,True,False,False,159000,3180,40.3887883,-3.7400441
 13005,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,74.0,2,1.0,5,True,True,False,False,False,False,False,240000,3243,40.3742112,-3.744676
@@ -13011,25 +13011,25 @@
 13009,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,90.0,3,1.0,1,True,False,False,False,True,False,False,143500,1594,40.3864775,-3.7345594
 13010,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,2,1.0,3,True,False,False,False,False,False,False,122000,1743,40.3887883,-3.7400441
 13011,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,190.0,7,2.0,1,True,False,False,False,True,False,False,250000,1316,40.3887883,-3.7400441
-13012,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,100.0,3,2.0,3,True,False,True,False,False,False,False,250000,2500,40.3869032,-3.7231858
-13013,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,76.0,3,1.0,3,True,False,False,False,False,False,False,161900,2130,40.3869032,-3.7231858
-13014,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,84.0,3,1.0,4,True,False,False,False,True,False,False,135000,1607,40.3869032,-3.7231858
+13012,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,100.0,3,2.0,3,True,False,True,False,False,False,False,250000,2500,40.3861447,-3.7234674
+13013,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,76.0,3,1.0,3,True,False,False,False,False,False,False,161900,2130,40.3861447,-3.7234674
+13014,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,84.0,3,1.0,4,True,False,False,False,True,False,False,135000,1607,40.3861447,-3.7234674
 13015,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,83.0,3,1.0,1,True,False,False,False,True,False,False,177000,2133,40.3887883,-3.7400441
 13016,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,40.0,2,1.0,Bajo,True,False,False,False,False,False,False,106000,2650,40.3742112,-3.744676
-13017,"Opañel, Carabanchel(Madrid)",HouseType 4: Dúplex,False,False,60.0,0,2.0,Bajo,True,False,False,False,True,False,False,150000,2500,40.3869032,-3.7231858
-13018,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,3,1.0,3,True,False,False,False,True,False,False,169500,2421,40.3869032,-3.7231858
-13019,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,2,1.0,4,True,False,False,False,True,False,False,145000,1933,40.3869032,-3.7231858
+13017,"Opañel, Carabanchel(Madrid)",HouseType 4: Dúplex,False,False,60.0,0,2.0,Bajo,True,False,False,False,True,False,False,150000,2500,40.3861447,-3.7234674
+13018,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,3,1.0,3,True,False,False,False,True,False,False,169500,2421,40.3861447,-3.7234674
+13019,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,2,1.0,4,True,False,False,False,True,False,False,145000,1933,40.3861447,-3.7234674
 13020,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,80.0,3,1.0,2,True,False,False,True,True,False,False,140000,1750,40.3728306,-3.7430863
-13021,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,59.0,3,1.0,1,True,False,False,False,False,True,False,175000,2966,40.3869032,-3.7231858
-13022,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,85.0,3,1.0,4,True,False,False,False,True,False,False,160000,1882,40.3869032,-3.7231858
+13021,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,59.0,3,1.0,1,True,False,False,False,False,True,False,175000,2966,40.3861447,-3.7234674
+13022,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,85.0,3,1.0,4,True,False,False,False,True,False,False,160000,1882,40.3861447,-3.7234674
 13023,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,110.0,3,2.0,5,True,True,False,False,True,False,False,115000,1045,40.3809981,-3.7279849
 13024,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,90.0,3,2.0,3,True,True,True,False,True,False,False,200000,2222,40.3809981,-3.7279849
 13025,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,2,1.0,1,True,False,False,False,False,False,False,150000,2000,40.3728306,-3.7430863
 13026,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,111.0,4,1.0,1,True,False,False,False,True,False,False,217000,1955,40.3864775,-3.7345594
 13027,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,95.0,3,2.0,5,True,True,True,False,True,False,False,199000,2095,40.3809981,-3.7279849
 13028,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,90.0,2,2.0,1,True,True,True,True,True,True,False,239000,2656,40.3728306,-3.7430863
-13029,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,94.0,3,1.0,1,True,False,True,True,True,True,False,235000,2500,40.3869032,-3.7231858
-13030,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,60.0,3,1.0,5,True,True,False,False,True,False,False,199000,3317,40.3869032,-3.7231858
+13029,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,94.0,3,1.0,1,True,False,True,True,True,True,False,235000,2500,40.3861447,-3.7234674
+13030,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,60.0,3,1.0,5,True,True,False,False,True,False,False,199000,3317,40.3861447,-3.7234674
 13031,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,45.0,1,1.0,1,True,True,False,False,False,False,False,130000,2889,40.3742112,-3.744676
 13032,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,65.0,2,1.0,1,True,False,False,False,True,False,False,125000,1923,40.3728306,-3.7430863
 13033,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,73.0,3,1.0,4,True,False,False,False,True,False,False,139000,1904,40.3887883,-3.7400441
@@ -13039,7 +13039,7 @@
 13037,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,4,1.0,1,True,False,False,False,False,False,False,160000,2286,40.3742112,-3.744676
 13038,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,51.0,3,1.0,Bajo,True,False,False,False,False,False,False,99900,1959,40.3864775,-3.7345594
 13039,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,40.0,1,1.0,3,True,True,False,False,False,False,False,139000,3475,40.3742112,-3.744676
-13040,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,146.0,4,2.0,2,True,True,True,True,True,False,True,480000,3288,40.3869032,-3.7231858
+13040,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,146.0,4,2.0,2,True,True,True,True,True,False,True,480000,3288,40.3861447,-3.7234674
 13041,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,50.0,2,1.0,Bajo,True,False,False,False,False,False,False,110000,2200,40.3809981,-3.7279849
 13042,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,80.0,3,1.0,3,True,False,False,False,True,False,False,125000,1562,40.3887883,-3.7400441
 13043,"Comillas, Carabanchel(Madrid)",HouseType 4: Dúplex,False,False,120.0,0,2.0,Bajo,True,False,False,True,False,False,False,259000,2158,40.392825450000004,-3.7141869541784382
@@ -13054,7 +13054,7 @@
 13052,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,120.0,4,2.0,Bajo,True,True,False,False,True,False,False,130000,1083,40.3809981,-3.7279849
 13053,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,85.0,3,1.0,Bajo,True,True,False,False,True,False,False,226000,2659,40.392825450000004,-3.7141869541784382
 13054,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,43.0,2,1.0,Bajo,True,False,False,True,False,False,False,99000,2302,40.392825450000004,-3.7141869541784382
-13055,"Opañel, Carabanchel(Madrid)",HouseType 4: Dúplex,False,False,84.0,2,2.0,1,True,True,True,True,False,False,False,230000,2738,40.3869032,-3.7231858
+13055,"Opañel, Carabanchel(Madrid)",HouseType 4: Dúplex,False,False,84.0,2,2.0,1,True,True,True,True,False,False,False,230000,2738,40.3861447,-3.7234674
 13056,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,2,1.0,1,True,False,False,False,False,False,False,126000,2100,40.3742112,-3.744676
 13057,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,3,1.0,4,True,True,False,False,True,False,False,177000,2360,40.3887883,-3.7400441
 13058,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,68.0,2,1.0,5,True,True,False,False,True,False,False,118000,1735,40.3728306,-3.7430863
@@ -13063,16 +13063,16 @@
 13061,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,54.0,1,1.0,Bajo,True,False,False,False,True,False,False,130000,2407,40.3742112,-3.744676
 13062,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,57.0,3,1.0,4,True,False,False,False,True,False,False,127600,2239,40.3728306,-3.7430863
 13063,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,89.0,2,1.0,1,True,False,False,False,True,True,False,157000,1764,40.3887883,-3.7400441
-13064,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,101.0,3,1.0,1,True,False,False,False,True,False,False,198000,1960,40.3869032,-3.7231858
+13064,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,101.0,3,1.0,1,True,False,False,False,True,False,False,198000,1960,40.3861447,-3.7234674
 13065,"Puerta Bonita, Carabanchel(Madrid)",HouseType 5: Áticos,True,False,74.0,3,1.0,4,True,False,False,False,False,False,False,148000,2000,40.3864775,-3.7345594
 13066,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,2,1.0,Bajo,True,False,False,False,False,False,False,140000,2333,40.3864775,-3.7345594
-13067,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,2,2.0,2,True,True,True,True,True,True,False,205000,2929,40.3869032,-3.7231858
+13067,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,2,2.0,2,True,True,True,True,True,True,False,205000,2929,40.3861447,-3.7234674
 13068,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,124.0,3,2.0,6,True,True,True,True,False,False,True,318500,2569,40.3864775,-3.7345594
-13069,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,45.0,1,1.0,2,False,False,False,False,False,False,False,89000,1978,40.3869032,-3.7231858
+13069,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,45.0,1,1.0,2,False,False,False,False,False,False,False,89000,1978,40.3861447,-3.7234674
 13070,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,119.0,4,2.0,2,True,False,False,False,True,False,False,199000,1672,40.3728306,-3.7430863
 13071,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,55.0,1,1.0,5,True,True,True,True,False,False,True,185000,3364,40.3693742,-3.7626949
 13072,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,113.0,3,2.0,1,True,True,True,True,True,False,True,415000,3673,40.3693742,-3.7626949
-13073,"Opañel, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,50.0,0,1.0,5,True,True,False,False,True,False,False,180000,3600,40.3869032,-3.7231858
+13073,"Opañel, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,50.0,0,1.0,5,True,True,False,False,True,False,False,180000,3600,40.3861447,-3.7234674
 13074,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,52.0,1,1.0,4,True,True,False,False,False,False,False,169900,3267,40.3887883,-3.7400441
 13075,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,90.0,2,2.0,3,True,True,True,True,True,False,True,295000,3278,40.3693742,-3.7626949
 13076,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,112.0,3,2.0,1,True,True,False,True,False,False,False,265000,2366,40.3887883,-3.7400441
@@ -13085,7 +13085,7 @@
 13083,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,2,1.0,2,True,False,False,False,False,False,False,139000,2317,40.3742112,-3.744676
 13084,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,74.0,3,1.0,4,True,False,False,False,True,False,False,148000,2000,40.3864775,-3.7345594
 13085,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,61.0,1,1.0,1,True,True,True,False,False,False,False,129000,2115,40.3742112,-3.744676
-13086,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,59.0,2,1.0,3,False,False,False,False,False,False,False,172000,2915,40.3869032,-3.7231858
+13086,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,59.0,2,1.0,3,False,False,False,False,False,False,False,172000,2915,40.3861447,-3.7234674
 13087,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,45.0,1,1.0,2,True,True,True,False,False,False,False,150000,3333,40.3887883,-3.7400441
 13088,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,92.0,2,1.0,Bajo,True,False,False,False,False,False,False,139000,1511,40.3809981,-3.7279849
 13089,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,2,1.0,Bajo,True,True,False,False,False,False,False,105000,1750,40.3809981,-3.7279849
@@ -13093,9 +13093,9 @@
 13091,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,110.0,2,1.0,5,True,True,False,True,True,False,False,299000,2718,40.392825450000004,-3.7141869541784382
 13092,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,64.0,3,1.0,2,True,False,False,False,True,False,False,135000,2109,40.3887883,-3.7400441
 13093,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,114.0,4,2.0,Bajo,True,True,False,True,False,False,False,210000,1842,40.3887883,-3.7400441
-13094,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,72.0,3,1.0,3,True,False,False,False,True,True,False,128000,1778,40.3869032,-3.7231858
+13094,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,72.0,3,1.0,3,True,False,False,False,True,True,False,128000,1778,40.3861447,-3.7234674
 13095,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,73.0,2,1.0,5,True,True,False,False,True,False,False,122000,1671,40.3728306,-3.7430863
-13096,"Opañel, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,73.0,1,1.0,6,True,True,True,False,True,False,False,365000,5000,40.3869032,-3.7231858
+13096,"Opañel, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,73.0,1,1.0,6,True,True,True,False,True,False,False,365000,5000,40.3861447,-3.7234674
 13097,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,3,1.0,3,True,False,False,True,False,False,False,150000,2000,40.3887883,-3.7400441
 13098,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,73.0,2,1.0,5,True,True,False,False,True,True,False,122000,1671,40.3728306,-3.7430863
 13099,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,77.0,2,1.0,1,True,False,False,False,False,False,False,148470,1928,40.3887883,-3.7400441
@@ -13139,7 +13139,7 @@
 13137,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,87.0,2,2.0,2,True,True,True,False,True,False,False,179900,2068,40.3864775,-3.7345594
 13138,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,80.0,2,2.0,2,True,True,True,False,False,False,True,249900,3124,40.3864775,-3.7345594
 13139,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,82.0,3,1.0,1,True,False,False,False,True,True,False,160000,1951,40.3728306,-3.7430863
-13140,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,63.0,2,1.0,3,True,False,False,False,False,False,False,160000,2540,40.3869032,-3.7231858
+13140,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,63.0,2,1.0,3,True,False,False,False,False,False,False,160000,2540,40.3861447,-3.7234674
 13141,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,58.0,2,1.0,2,True,False,False,False,True,True,False,129000,2224,40.3742112,-3.744676
 13142,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,62.0,2,1.0,Bajo,True,False,False,False,False,False,False,122500,1976,40.3887883,-3.7400441
 13143,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,94.0,3,1.0,3,True,False,False,False,False,False,False,145000,1543,40.3887883,-3.7400441
@@ -13155,14 +13155,14 @@
 13153,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,80.0,3,1.0,Bajo,True,True,False,False,True,False,False,225000,2812,40.392825450000004,-3.7141869541784382
 13154,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,50.0,2,1.0,1,True,False,False,True,False,False,False,90000,1800,40.3864775,-3.7345594
 13155,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,73.0,2,1.0,2,True,False,False,False,False,False,False,161000,2205,40.3742112,-3.744676
-13156,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,73.0,3,1.0,1,True,False,False,False,False,False,False,139000,1904,40.3869032,-3.7231858
+13156,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,73.0,3,1.0,1,True,False,False,False,False,False,False,139000,1904,40.3861447,-3.7234674
 13157,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,114.0,4,2.0,Bajo,True,True,False,False,True,False,False,134000,1175,40.3809981,-3.7279849
 13158,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,3,1.0,2,True,True,False,False,True,False,False,149000,2129,40.392825450000004,-3.7141869541784382
-13159,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,66.0,3,1.0,3,True,False,False,False,True,False,False,140000,2121,40.3869032,-3.7231858
+13159,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,66.0,3,1.0,3,True,False,False,False,True,False,False,140000,2121,40.3861447,-3.7234674
 13160,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,53.0,2,1.0,Bajo,True,False,False,False,False,False,False,97500,1840,40.3809981,-3.7279849
 13161,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,130.0,3,2.0,4,True,True,True,True,True,False,True,450000,3462,40.3693742,-3.7626949
 13162,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,77.0,3,1.0,1,True,False,False,False,True,False,False,140000,1818,40.3864775,-3.7345594
-13163,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,55.0,1,1.0,2,True,True,False,False,False,False,False,165000,3000,40.3869032,-3.7231858
+13163,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,55.0,1,1.0,2,True,True,False,False,False,False,False,165000,3000,40.3861447,-3.7234674
 13164,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,71.0,2,1.0,1,True,False,False,False,False,False,False,130000,1831,40.3742112,-3.744676
 13165,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,72.0,3,1.0,3,True,False,False,False,False,False,False,152000,2111,40.3864775,-3.7345594
 13166,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,2,1.0,2,True,False,False,False,False,False,False,137900,2298,40.3728306,-3.7430863
@@ -13173,21 +13173,21 @@
 13171,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,66.0,2,1.0,1,True,False,False,False,False,False,False,169000,2561,40.3809981,-3.7279849
 13172,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,83.0,3,1.0,Bajo,True,False,False,False,True,False,False,159000,1916,40.3742112,-3.744676
 13173,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,69.0,3,1.0,2,True,False,False,False,True,False,False,120600,1748,40.3742112,-3.744676
-13174,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,2,1.0,2,True,False,False,False,False,False,False,134000,1914,40.3869032,-3.7231858
+13174,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,2,1.0,2,True,False,False,False,False,False,False,134000,1914,40.3861447,-3.7234674
 13175,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,72.0,3,1.0,Bajo,True,False,False,True,False,False,False,145000,2014,40.3864775,-3.7345594
 13176,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,103.0,3,2.0,Bajo,True,False,False,False,False,False,False,194000,1883,40.3742112,-3.744676
 13177,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,61.0,3,1.0,3,True,False,False,False,False,False,False,130700,2143,40.3809981,-3.7279849
 13178,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,35.0,1,1.0,Bajo,True,False,False,False,False,False,False,95000,2714,40.3887883,-3.7400441
 13179,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,142.0,5,3.0,4,True,True,True,False,False,True,False,370000,2606,40.3742112,-3.744676
-13180,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,79.0,3,1.0,3,True,False,False,False,True,True,False,127000,1608,40.3869032,-3.7231858
+13180,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,79.0,3,1.0,3,True,False,False,False,True,True,False,127000,1608,40.3861447,-3.7234674
 13181,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,80.0,3,1.0,1,False,True,False,False,True,False,False,135000,1688,40.3809981,-3.7279849
 13182,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,72.0,3,1.0,1,True,False,False,False,False,False,False,126000,1750,40.3742112,-3.744676
 13183,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,76.0,3,1.0,3,True,True,False,False,False,False,False,172000,2263,40.3887883,-3.7400441
 13184,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,62.0,3,1.0,2,True,False,False,False,True,False,False,120000,1935,40.3864775,-3.7345594
-13185,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,74.0,3,1.0,2,True,False,False,False,False,True,False,139000,1878,40.3869032,-3.7231858
+13185,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,74.0,3,1.0,2,True,False,False,False,False,True,False,139000,1878,40.3861447,-3.7234674
 13186,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,95.0,3,1.0,3,True,True,False,False,False,False,False,166000,1747,40.3809981,-3.7279849
-13187,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,90.0,3,2.0,3,True,False,True,False,True,False,False,180000,2000,40.3869032,-3.7231858
-13188,"Opañel, Carabanchel(Madrid)",HouseType 4: Dúplex,False,False,70.0,1,1.0,2,True,False,False,True,True,True,False,200000,2857,40.3869032,-3.7231858
+13187,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,90.0,3,2.0,3,True,False,True,False,True,False,False,180000,2000,40.3861447,-3.7234674
+13188,"Opañel, Carabanchel(Madrid)",HouseType 4: Dúplex,False,False,70.0,1,1.0,2,True,False,False,True,True,True,False,200000,2857,40.3861447,-3.7234674
 13189,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,70.0,3,1.0,5,True,False,False,False,True,False,False,130000,1857,40.3742112,-3.744676
 13190,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,2,1.0,2,True,False,False,False,True,False,False,160000,2667,40.3742112,-3.744676
 13191,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,70.0,3,1.0,3,True,False,False,False,True,False,False,99000,1414,40.3809981,-3.7279849
@@ -13196,7 +13196,7 @@
 13194,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,87.0,3,1.0,3,True,True,False,False,True,False,False,165000,1897,40.3809981,-3.7279849
 13195,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,56.0,3,1.0,Bajo,True,False,False,False,False,False,False,136570,2439,40.3887883,-3.7400441
 13196,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,85.0,3,1.0,1,True,False,False,False,False,False,False,175000,2059,40.3887883,-3.7400441
-13197,"Opañel, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,95.0,2,2.0,3,True,True,False,True,True,False,False,305000,3211,40.3869032,-3.7231858
+13197,"Opañel, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,95.0,2,2.0,3,True,True,False,True,True,False,False,305000,3211,40.3861447,-3.7234674
 13198,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,48.0,2,1.0,Bajo,True,False,False,False,True,False,False,90000,1875,40.3887883,-3.7400441
 13199,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,71.0,3,1.0,2,True,False,False,False,True,False,False,126000,1775,40.3864775,-3.7345594
 13200,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,2,2.0,4,True,True,False,False,False,False,False,289000,4129,40.392825450000004,-3.7141869541784382
@@ -13204,38 +13204,38 @@
 13202,"Puerta Bonita, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,59.0,1,1.0,5,True,True,False,False,True,False,True,190000,3220,40.3864775,-3.7345594
 13203,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,59.0,1,1.0,1,True,False,False,False,True,False,False,115000,1949,40.3742112,-3.744676
 13204,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,78.0,2,1.0,1,True,True,True,True,False,False,True,285000,3654,40.3693742,-3.7626949
-13205,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,62.0,2,1.0,Bajo,True,False,False,False,False,False,False,136000,2194,40.3869032,-3.7231858
+13205,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,62.0,2,1.0,Bajo,True,False,False,False,False,False,False,136000,2194,40.3861447,-3.7234674
 13206,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,74.0,2,2.0,Bajo,True,False,False,False,True,False,False,165000,2230,40.3728306,-3.7430863
 13207,"Vista Alegre, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,112.0,3,2.0,5,True,True,False,False,True,False,False,265000,2366,40.3887883,-3.7400441
 13208,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,2,1.0,2,True,False,False,False,False,False,False,139000,2317,40.3742112,-3.744676
-13209,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,85.0,2,1.0,Bajo,True,True,False,True,True,True,True,288000,3388,40.3869032,-3.7231858
+13209,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,85.0,2,1.0,Bajo,True,True,False,True,True,True,True,288000,3388,40.3861447,-3.7234674
 13210,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,72.0,2,1.0,2,True,True,False,False,False,False,False,135000,1875,40.3809981,-3.7279849
 13211,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,62.0,2,1.0,2,True,True,False,False,False,False,False,135000,2177,40.3864775,-3.7345594
 13212,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,74.0,1,1.0,3,True,True,False,False,True,False,False,195000,2635,40.3742112,-3.744676
 13213,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,3,1.0,2,True,False,False,False,False,True,False,150000,2000,40.3728306,-3.7430863
 13214,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,3,1.0,Entreplanta exterior,True,False,False,False,False,False,False,166000,2767,40.392825450000004,-3.7141869541784382
-13215,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,90.0,3,2.0,1,True,True,True,False,False,False,False,288486,3205,40.3869032,-3.7231858
+13215,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,90.0,3,2.0,1,True,True,True,False,False,False,False,288486,3205,40.3861447,-3.7234674
 13216,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,82.0,2,2.0,1,True,True,True,True,False,True,True,239000,2915,40.3809981,-3.7279849
-13217,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,146.0,4,2.0,2,True,True,True,True,True,False,True,480000,3288,40.3869032,-3.7231858
+13217,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,146.0,4,2.0,2,True,True,True,True,True,False,True,480000,3288,40.3861447,-3.7234674
 13218,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,103.0,3,1.0,3,True,False,False,False,True,False,False,221000,2146,40.392825450000004,-3.7141869541784382
 13219,"Puerta Bonita, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,240.0,4,2.0,2,True,False,True,False,False,False,True,420000,1750,40.3864775,-3.7345594
 13220,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,74.0,3,1.0,1,True,True,False,False,False,False,False,150000,2027,40.3809981,-3.7279849
 13221,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,98.0,3,1.0,1,True,False,False,False,True,False,False,180000,1837,40.3742112,-3.744676
 13222,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,170.0,5,3.0,1,True,True,True,False,True,False,False,389800,2293,40.3864775,-3.7345594
-13223,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,65.0,3,1.0,1,True,False,False,False,False,True,False,128000,1969,40.3869032,-3.7231858
+13223,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,65.0,3,1.0,1,True,False,False,False,False,True,False,128000,1969,40.3861447,-3.7234674
 13224,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,55.0,2,2.0,Bajo,True,False,False,False,False,False,False,120000,2182,40.3887883,-3.7400441
 13225,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,54.0,2,1.0,3,True,True,False,False,False,False,False,119900,2220,40.3864775,-3.7345594
 13226,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,3,1.0,1,True,False,False,False,False,False,False,110000,1571,40.3864775,-3.7345594
-13227,"Opañel, Carabanchel(Madrid)",HouseType 4: Dúplex,False,False,96.0,2,2.0,3,True,True,False,True,True,True,True,305000,3177,40.3869032,-3.7231858
+13227,"Opañel, Carabanchel(Madrid)",HouseType 4: Dúplex,False,False,96.0,2,2.0,3,True,True,False,True,True,True,True,305000,3177,40.3861447,-3.7234674
 13228,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,82.0,2,2.0,1,True,True,True,True,False,False,True,239000,2915,40.3809981,-3.7279849
 13229,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,99.0,3,2.0,1,True,True,True,True,False,False,False,245000,2475,40.3864775,-3.7345594
 13230,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,86.0,3,1.0,4,True,False,False,False,True,False,False,160000,1860,40.3809981,-3.7279849
 13231,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,100.0,3,1.0,4,True,False,False,False,True,False,False,128000,1280,40.3864775,-3.7345594
 13232,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,62.0,3,1.0,2,False,False,False,False,True,False,False,150000,2419,40.3864775,-3.7345594
 13233,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,74.0,3,1.0,1,True,False,False,False,True,False,False,130000,1757,40.3864775,-3.7345594
-13234,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,85.0,3,2.0,Entreplanta exterior,True,True,False,False,True,False,False,155000,1824,40.3869032,-3.7231858
+13234,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,85.0,3,2.0,Entreplanta exterior,True,True,False,False,True,False,False,155000,1824,40.3861447,-3.7234674
 13235,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,92.0,2,1.0,1,True,True,False,False,False,False,False,150000,1630,40.3809981,-3.7279849
-13236,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,59.0,3,1.0,3,True,False,False,False,False,False,False,215000,3644,40.3869032,-3.7231858
+13236,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,59.0,3,1.0,3,True,False,False,False,False,False,False,215000,3644,40.3861447,-3.7234674
 13237,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,74.0,3,1.0,2,True,False,False,False,False,False,False,169000,2284,40.3742112,-3.744676
 13238,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,3,1.0,3,True,False,True,False,True,False,False,121000,1729,40.3887883,-3.7400441
 13239,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,66.0,2,1.0,2,True,False,False,False,True,False,False,125500,1902,40.3864775,-3.7345594
@@ -13246,7 +13246,7 @@
 13244,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,71.0,3,1.0,2,True,False,False,False,True,False,False,120000,1690,40.3728306,-3.7430863
 13245,"Puerta Bonita, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,110.0,2,2.0,4,True,True,True,True,True,False,False,245000,2227,40.3864775,-3.7345594
 13246,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,89.0,3,1.0,2,True,False,False,False,False,False,False,115000,1292,40.3887883,-3.7400441
-13247,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,3,1.0,1,True,True,False,False,False,False,False,150000,2500,40.3869032,-3.7231858
+13247,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,3,1.0,1,True,True,False,False,False,False,False,150000,2500,40.3861447,-3.7234674
 13248,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,58.0,2,1.0,1,True,False,False,False,False,True,False,118000,2034,40.3742112,-3.744676
 13249,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,105.0,3,2.0,3,True,True,False,False,True,True,False,139900,1332,40.3809981,-3.7279849
 13250,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,70.0,2,1.0,3,True,False,False,False,False,False,False,95000,1357,40.3809981,-3.7279849
@@ -13256,11 +13256,11 @@
 13254,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,121.0,3,2.0,3,True,True,True,False,False,False,True,310000,2562,40.3887883,-3.7400441
 13255,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,77.0,2,2.0,3,True,True,True,True,False,False,True,280000,3636,40.3693742,-3.7626949
 13256,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,160.0,3,2.0,1,True,False,False,True,True,True,False,235000,1469,40.3864775,-3.7345594
-13257,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,65.0,3,1.0,Bajo,True,False,False,False,True,False,False,107000,1646,40.3869032,-3.7231858
+13257,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,65.0,3,1.0,Bajo,True,False,False,False,True,False,False,107000,1646,40.3861447,-3.7234674
 13258,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,70.0,2,1.0,1,True,True,False,False,False,False,False,156348,2234,40.3864775,-3.7345594
 13259,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,60.0,2,1.0,4,True,False,False,False,False,False,False,105000,1750,40.3864775,-3.7345594
 13260,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,2,1.0,3,True,False,False,False,True,True,False,99000,1650,40.3742112,-3.744676
-13261,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,86.0,2,1.0,4,True,True,False,False,True,False,False,185000,2151,40.3869032,-3.7231858
+13261,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,86.0,2,1.0,4,True,True,False,False,True,False,False,185000,2151,40.3861447,-3.7234674
 13262,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,82.0,3,1.0,5,True,True,False,False,True,False,False,139500,1701,40.3864775,-3.7345594
 13263,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,127.0,4,2.0,3,True,True,True,True,True,False,False,345000,2717,40.3887883,-3.7400441
 13264,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,3,1.0,3,True,False,False,False,False,False,False,123000,2050,40.3864775,-3.7345594
@@ -13268,12 +13268,12 @@
 13266,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,85.0,2,2.0,5,True,True,True,True,False,False,True,245000,2882,40.3693742,-3.7626949
 13267,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,81.0,3,1.0,4,True,True,True,False,True,False,False,190000,2346,40.3809981,-3.7279849
 13268,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,54.0,3,1.0,4,True,False,False,False,False,False,False,107000,1981,40.3809981,-3.7279849
-13269,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,88.0,3,1.0,1,True,False,False,False,True,False,False,156000,1773,40.3869032,-3.7231858
+13269,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,88.0,3,1.0,1,True,False,False,False,True,False,False,156000,1773,40.3861447,-3.7234674
 13270,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,71.0,3,1.0,1,True,False,False,False,True,False,False,126000,1775,40.3742112,-3.744676
 13271,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,57.0,3,1.0,3,True,True,False,False,False,False,False,133070,2335,40.3864775,-3.7345594
-13272,"Opañel, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,88.0,1,1.0,4,True,True,False,True,True,False,False,238000,2705,40.3869032,-3.7231858
+13272,"Opañel, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,88.0,1,1.0,4,True,True,False,True,True,False,False,238000,2705,40.3861447,-3.7234674
 13273,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,73.0,3,1.0,2,False,False,False,False,True,False,False,154000,2110,40.3809981,-3.7279849
-13274,"Opañel, Carabanchel(Madrid)",HouseType 5: Áticos,True,False,131.0,2,1.0,1,True,False,True,False,True,False,False,295000,2252,40.3869032,-3.7231858
+13274,"Opañel, Carabanchel(Madrid)",HouseType 5: Áticos,True,False,131.0,2,1.0,1,True,False,True,False,True,False,False,295000,2252,40.3861447,-3.7234674
 13275,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,94.0,2,2.0,3,True,True,True,True,False,False,True,275000,2926,40.3693742,-3.7626949
 13276,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,145.0,3,2.0,Bajo,True,False,False,False,False,False,False,123000,848,40.3728306,-3.7430863
 13277,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,72.0,2,2.0,2,True,False,True,False,False,False,False,225000,3125,40.3728306,-3.7430863
@@ -13285,7 +13285,7 @@
 13283,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,159.0,4,2.0,1,True,True,False,True,True,False,False,415000,2610,40.3887883,-3.7400441
 13284,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,2,1.0,1,True,True,False,True,True,False,False,170000,2267,40.3742112,-3.744676
 13285,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,55.0,2,1.0,1,True,False,False,False,True,False,False,99000,1800,40.392825450000004,-3.7141869541784382
-13286,"Opañel, Carabanchel(Madrid)",HouseType 4: Dúplex,False,False,95.0,2,2.0,3,True,True,False,True,True,False,True,305000,3211,40.3869032,-3.7231858
+13286,"Opañel, Carabanchel(Madrid)",HouseType 4: Dúplex,False,False,95.0,2,2.0,3,True,True,False,True,True,False,True,305000,3211,40.3861447,-3.7234674
 13287,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,65.0,3,1.0,4,True,False,False,False,False,True,False,127500,1962,40.3887883,-3.7400441
 13288,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,105.0,3,2.0,3,True,True,False,False,True,False,False,128000,1219,40.3809981,-3.7279849
 13289,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,65.0,2,1.0,1,True,False,False,False,True,False,False,121600,1871,40.3809981,-3.7279849
@@ -13300,24 +13300,24 @@
 13298,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,2,1.0,3,True,False,False,False,False,False,False,114000,1900,40.3809981,-3.7279849
 13299,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,68.0,3,1.0,1,True,True,False,False,True,False,False,133070,1957,40.3864775,-3.7345594
 13300,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,3,1.0,1,True,False,False,False,True,False,False,157000,2093,40.3864775,-3.7345594
-13301,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,72.0,2,1.0,3,True,False,False,False,True,False,False,143000,1986,40.3869032,-3.7231858
+13301,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,72.0,2,1.0,3,True,False,False,False,True,False,False,143000,1986,40.3861447,-3.7234674
 13302,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,73.0,4,1.0,3,True,False,False,False,False,False,False,109000,1493,40.3809981,-3.7279849
 13303,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,35.0,1,1.0,Bajo,True,False,False,False,False,False,False,95000,2714,40.3887883,-3.7400441
 13304,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,68.0,3,1.0,Semi-sótano exterior,True,False,False,False,False,False,False,112000,1647,40.3742112,-3.744676
 13305,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,50.0,1,1.0,4,True,True,True,True,True,False,True,169000,3380,40.3693742,-3.7626949
-13306,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,72.0,2,1.0,5,True,True,False,False,True,False,False,225000,3125,40.3869032,-3.7231858
+13306,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,72.0,2,1.0,5,True,True,False,False,True,False,False,225000,3125,40.3861447,-3.7234674
 13307,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,80.0,3,1.0,3,True,True,False,True,True,False,False,199000,2488,40.3887883,-3.7400441
 13308,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,90.0,3,1.0,2,True,False,False,False,False,False,False,115000,1278,40.3887883,-3.7400441
-13309,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,3,1.0,1,True,False,False,False,False,True,False,190000,3167,40.3869032,-3.7231858
-13310,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,55.0,2,1.0,1,True,False,False,False,False,True,False,175000,3182,40.3869032,-3.7231858
-13311,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,50.0,2,1.0,2,True,False,False,False,False,True,False,165000,3300,40.3869032,-3.7231858
-13312,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,2,1.0,1,True,False,False,False,True,False,False,175000,2917,40.3869032,-3.7231858
+13309,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,3,1.0,1,True,False,False,False,False,True,False,190000,3167,40.3861447,-3.7234674
+13310,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,55.0,2,1.0,1,True,False,False,False,False,True,False,175000,3182,40.3861447,-3.7234674
+13311,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,50.0,2,1.0,2,True,False,False,False,False,True,False,165000,3300,40.3861447,-3.7234674
+13312,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,2,1.0,1,True,False,False,False,True,False,False,175000,2917,40.3861447,-3.7234674
 13313,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,110.0,4,2.0,6,True,True,True,False,True,False,False,310000,2818,40.3809981,-3.7279849
-13314,"Opañel, Carabanchel(Madrid)",HouseType 4: Dúplex,False,False,96.0,2,2.0,3,True,True,False,True,True,False,True,305000,3177,40.3869032,-3.7231858
+13314,"Opañel, Carabanchel(Madrid)",HouseType 4: Dúplex,False,False,96.0,2,2.0,3,True,True,False,True,True,False,True,305000,3177,40.3861447,-3.7234674
 13315,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,80.0,2,2.0,2,True,True,True,False,False,False,True,249000,3112,40.3864775,-3.7345594
 13316,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,164.0,4,2.0,3,True,True,True,True,True,False,True,435000,2652,40.3887883,-3.7400441
 13317,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,3,1.0,3,True,False,False,False,False,False,False,135000,2250,40.3864775,-3.7345594
-13318,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,82.0,3,1.0,1,True,False,False,False,True,False,False,165000,2012,40.3869032,-3.7231858
+13318,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,82.0,3,1.0,1,True,False,False,False,True,False,False,165000,2012,40.3861447,-3.7234674
 13319,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,82.0,2,2.0,5,True,True,True,True,True,False,True,260000,3171,40.3693742,-3.7626949
 13320,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,67.0,2,1.0,2,True,True,False,False,False,False,False,195000,2910,40.392825450000004,-3.7141869541784382
 13321,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,94.0,2,2.0,3,True,True,True,True,False,False,True,275000,2926,40.3693742,-3.7626949
@@ -13327,8 +13327,8 @@
 13325,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,107.0,2,2.0,5,False,True,True,True,False,True,False,362000,3383,40.3742112,-3.744676
 13326,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,121.0,3,2.0,5,True,True,True,True,False,True,False,407000,3364,40.3742112,-3.744676
 13327,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,106.0,3,2.0,3,True,True,False,True,False,False,True,300000,2830,40.3809981,-3.7279849
-13328,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,72.0,3,1.0,4,True,False,False,False,True,True,False,125000,1736,40.3869032,-3.7231858
-13329,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,66.0,3,1.0,1,True,False,False,False,True,True,False,132000,2000,40.3869032,-3.7231858
+13328,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,72.0,3,1.0,4,True,False,False,False,True,True,False,125000,1736,40.3861447,-3.7234674
+13329,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,66.0,3,1.0,1,True,False,False,False,True,True,False,132000,2000,40.3861447,-3.7234674
 13330,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,81.0,3,1.0,4,True,False,False,False,True,False,False,150000,1852,40.3742112,-3.744676
 13331,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,136.0,3,2.0,2,False,True,False,False,True,True,False,275000,2022,40.392825450000004,-3.7141869541784382
 13332,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,True,96.0,2,2.0,Bajo,True,False,True,True,True,False,False,225000,2344,40.3742112,-3.744676
@@ -13356,7 +13356,7 @@
 13354,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,55.0,3,1.0,3,True,False,False,False,False,False,False,110000,2000,40.3728306,-3.7430863
 13355,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,55.0,3,1.0,3,True,False,False,False,True,False,False,107000,1945,40.3864775,-3.7345594
 13356,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,89.0,3,1.0,3,True,True,False,False,True,False,False,221000,2483,40.392825450000004,-3.7141869541784382
-13357,"Opañel, Carabanchel(Madrid)",HouseType 4: Dúplex,False,False,185.0,2,2.0,Bajo,True,False,False,False,False,False,False,180000,973,40.3869032,-3.7231858
+13357,"Opañel, Carabanchel(Madrid)",HouseType 4: Dúplex,False,False,185.0,2,2.0,Bajo,True,False,False,False,False,False,False,180000,973,40.3861447,-3.7234674
 13358,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,58.0,2,1.0,Bajo,True,False,False,False,False,False,False,140000,2414,40.3742112,-3.744676
 13359,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,93.0,3,1.0,1,True,True,False,False,False,True,False,175000,1882,40.3809981,-3.7279849
 13360,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,91.0,3,1.0,4,True,False,False,False,True,True,False,130000,1429,40.3864775,-3.7345594
@@ -13375,7 +13375,7 @@
 13373,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,105.0,3,2.0,3,True,True,False,True,False,False,True,300000,2857,40.3809981,-3.7279849
 13374,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,45.0,2,1.0,3,True,False,False,False,True,False,False,152000,3378,40.3864775,-3.7345594
 13375,"San Isidro, Carabanchel(Madrid)",HouseType 4: Dúplex,False,False,100.0,2,2.0,2,True,True,False,False,True,False,False,235000,2350,40.3742112,-3.744676
-13376,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,79.0,2,2.0,2,True,True,True,True,False,True,False,205000,2595,40.3869032,-3.7231858
+13376,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,79.0,2,2.0,2,True,True,True,True,False,True,False,205000,2595,40.3861447,-3.7234674
 13377,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,130.0,4,2.0,1,True,False,False,False,True,False,False,274000,2108,40.392825450000004,-3.7141869541784382
 13378,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,2,1.0,2,True,False,False,False,False,False,False,170000,2833,40.3742112,-3.744676
 13379,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,66.0,3,1.0,Bajo,True,True,False,False,False,False,False,108000,1636,40.3742112,-3.744676
@@ -13413,11 +13413,11 @@
 13411,"San Isidro, Carabanchel(Madrid)",HouseType 4: Dúplex,False,False,78.0,2,1.0,Bajo,True,True,False,False,False,False,False,189000,2423,40.3742112,-3.744676
 13412,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,105.0,3,2.0,2,True,True,True,True,False,False,False,315000,3000,40.392825450000004,-3.7141869541784382
 13413,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,86.0,4,1.0,Bajo,True,True,False,False,False,False,False,155000,1802,40.3742112,-3.744676
-13414,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,2,1.0,3,False,False,False,False,False,False,False,172000,2867,40.3869032,-3.7231858
+13414,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,2,1.0,3,False,False,False,False,False,False,False,172000,2867,40.3861447,-3.7234674
 13415,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,66.0,2,1.0,1,True,False,False,False,True,True,False,115000,1742,40.3864775,-3.7345594
 13416,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,107.0,3,2.0,2,True,True,False,False,True,False,False,150000,1402,40.3809981,-3.7279849
 13417,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,136.0,3,2.0,1,True,False,False,False,True,False,False,260000,1912,40.3728306,-3.7430863
-13418,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,60.0,3,1.0,1,True,False,False,False,False,False,False,125000,2083,40.3869032,-3.7231858
+13418,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,60.0,3,1.0,1,True,False,False,False,False,False,False,125000,2083,40.3861447,-3.7234674
 13419,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,80.0,3,1.0,Bajo,True,False,False,False,False,False,False,220000,2750,40.3864775,-3.7345594
 13420,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,50.0,2,1.0,1,True,False,False,False,True,False,False,148000,2960,40.3887883,-3.7400441
 13421,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,102.0,3,2.0,2,True,True,True,True,False,False,True,315000,3088,40.3728306,-3.7430863
@@ -13466,7 +13466,7 @@
 13464,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,3,1.0,1,True,False,True,False,True,False,False,179000,2387,40.3887883,-3.7400441
 13465,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,65.0,3,1.0,1,True,False,False,False,True,False,False,110000,1692,40.3864775,-3.7345594
 13466,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,85.0,3,1.0,1,True,False,False,False,False,False,False,175000,2059,40.3887883,-3.7400441
-13467,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,67.0,3,1.0,8,True,True,False,False,False,False,False,250000,3731,40.3869032,-3.7231858
+13467,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,67.0,3,1.0,8,True,True,False,False,False,False,False,250000,3731,40.3861447,-3.7234674
 13468,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,105.0,4,2.0,1,True,True,True,True,False,False,True,310000,2952,40.3864775,-3.7345594
 13469,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,70.0,3,1.0,Bajo,True,False,False,False,False,False,False,110000,1571,40.3864775,-3.7345594
 13470,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,100.0,3,2.0,1,True,False,False,False,True,False,False,260000,2600,40.3887883,-3.7400441
@@ -13506,7 +13506,7 @@
 13504,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,73.0,3,1.0,2,True,False,False,False,True,False,False,139900,1916,40.3809981,-3.7279849
 13505,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,52.0,2,1.0,4,True,False,False,False,True,False,False,108000,2077,40.3887883,-3.7400441
 13506,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,3,1.0,4,True,True,False,False,True,False,False,155000,2067,40.3728306,-3.7430863
-13507,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,83.0,3,1.0,2,True,False,False,False,False,False,False,177260,2136,40.3869032,-3.7231858
+13507,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,83.0,3,1.0,2,True,False,False,False,False,False,False,177260,2136,40.3861447,-3.7234674
 13508,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,89.0,3,1.0,3,True,False,False,False,True,False,False,129000,1449,40.3809981,-3.7279849
 13509,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,75.0,2,1.0,4,True,False,False,False,True,False,False,110000,1467,40.3887883,-3.7400441
 13510,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,2,1.0,1,True,False,False,False,True,False,False,260000,4333,40.3887883,-3.7400441
@@ -13519,7 +13519,7 @@
 13517,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,85.0,3,1.0,1,True,False,False,True,True,False,False,170000,2000,40.3742112,-3.744676
 13518,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,True,105.0,2,2.0,2,True,True,True,True,False,False,False,270000,2571,40.3864775,-3.7345594
 13519,"Puerta Bonita, Carabanchel(Madrid)",HouseType 5: Áticos,False,True,177.0,3,2.0,4,True,True,True,True,True,False,False,380000,2147,40.3864775,-3.7345594
-13520,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,83.0,3,1.0,1,True,False,False,False,False,False,False,177260,2136,40.3869032,-3.7231858
+13520,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,83.0,3,1.0,1,True,False,False,False,False,False,False,177260,2136,40.3861447,-3.7234674
 13521,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,51.0,3,1.0,Bajo,True,False,False,False,False,False,False,99000,1941,40.3864775,-3.7345594
 13522,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,90.0,3,1.0,4,True,True,False,False,True,False,False,167500,1861,40.3887883,-3.7400441
 13523,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,58.0,2,1.0,Bajo,True,False,False,False,False,False,False,140000,2414,40.3742112,-3.744676
@@ -13549,7 +13549,7 @@
 13547,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,60.0,3,1.0,Semi-sótano exterior,True,True,False,False,True,False,False,185000,3083,40.392825450000004,-3.7141869541784382
 13548,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,63.0,3,1.0,3,True,False,False,False,False,False,False,148000,2349,40.3864775,-3.7345594
 13549,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,72.0,2,1.0,4,True,False,True,False,False,False,False,155000,2153,40.3887883,-3.7400441
-13550,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,97.0,3,2.0,3,True,False,False,False,True,False,False,208000,2144,40.3869032,-3.7231858
+13550,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,97.0,3,2.0,3,True,False,False,False,True,False,False,208000,2144,40.3861447,-3.7234674
 13551,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,83.0,3,1.0,3,True,False,False,False,True,False,False,147500,1777,40.3864775,-3.7345594
 13552,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,85.0,3,2.0,3,True,True,True,False,False,False,False,249000,2929,40.3742112,-3.744676
 13553,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,97.0,3,1.0,3,True,True,False,False,False,False,False,195000,2010,40.3887883,-3.7400441
@@ -13563,13 +13563,13 @@
 13561,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,53.0,2,1.0,1,True,True,False,False,False,False,False,170000,3208,40.3809981,-3.7279849
 13562,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,124.0,3,2.0,6,True,True,True,True,False,True,True,318500,2569,40.3864775,-3.7345594
 13563,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,38.0,1,1.0,Entreplanta interior,False,True,False,False,False,False,False,80000,2105,40.3742112,-3.744676
-13564,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,95.0,3,2.0,3,True,True,False,False,True,True,False,250000,2632,40.3869032,-3.7231858
+13564,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,95.0,3,2.0,3,True,True,False,False,True,True,False,250000,2632,40.3861447,-3.7234674
 13565,"Abrantes, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,76.0,2,2.0,7,True,True,True,True,False,False,True,225000,2961,40.3809981,-3.7279849
 13566,"Buena Vista, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,100.0,4,2.0,3,True,True,True,False,False,False,False,320000,3200,40.3728306,-3.7430863
 13567,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,55.0,2,2.0,3,True,True,False,False,True,False,False,160000,2909,40.3742112,-3.744676
 13568,"Puerta Bonita, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,70.0,3,1.0,2,True,False,False,False,False,True,False,136000,1943,40.3864775,-3.7345594
 13569,"Comillas, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,69.0,2,1.0,Bajo,True,True,False,False,False,False,False,194000,2812,40.392825450000004,-3.7141869541784382
-13570,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,80.0,2,2.0,1,True,True,False,False,True,False,False,240000,3000,40.3869032,-3.7231858
+13570,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,80.0,2,2.0,1,True,True,False,False,True,False,False,240000,3000,40.3861447,-3.7234674
 13571,"Puerta Bonita, Carabanchel(Madrid)",HouseType 5: Áticos,False,False,156.0,3,2.0,5,True,True,True,True,True,False,False,340000,2179,40.3864775,-3.7345594
 13572,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,True,False,72.0,3,1.0,2,True,False,False,False,True,False,False,104900,1457,40.3742112,-3.744676
 13573,"Vista Alegre, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,75.0,2,1.0,2,True,False,False,False,False,False,False,149500,1993,40.3887883,-3.7400441
@@ -13579,7 +13579,7 @@
 13577,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 4: Dúplex,False,False,120.0,4,2.0,Bajo,True,True,True,True,True,False,False,309000,2575,40.3693742,-3.7626949
 13578,"Pau de Carabanchel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,107.0,3,2.0,1,True,True,True,False,False,False,True,279900,2616,40.3693742,-3.7626949
 13579,"San Isidro, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,84.0,3,2.0,2,True,True,True,False,True,False,False,239000,2845,40.3742112,-3.744676
-13580,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,76.0,3,1.0,1,True,True,False,False,False,False,False,200000,2632,40.3869032,-3.7231858
+13580,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,76.0,3,1.0,1,True,True,False,False,False,False,False,200000,2632,40.3861447,-3.7234674
 13581,"Huertas-Cortes, Centro(Madrid)",HouseType 1: Pisos,False,False,150.0,3,2.0,2,True,True,False,False,False,False,False,850000,5667,40.4141154,-3.701364
 13582,"Malasaña-Universidad, Centro(Madrid)",HouseType 1: Pisos,True,False,248.0,4,3.0,6,True,True,True,True,True,False,False,980000,3952,40.4267079,-3.7042311
 13583,"Chueca-Justicia, Centro(Madrid)",HouseType 1: Pisos,False,False,32.0,1,1.0,8,False,True,False,False,False,False,False,233000,7281,40.4227415,-3.6993271
@@ -13609,7 +13609,7 @@
 13607,"Huertas-Cortes, Centro(Madrid)",HouseType 1: Pisos,False,False,349.0,3,4.0,4,True,True,False,False,False,True,False,2400000,6877,40.4141154,-3.701364
 13608,"Huertas-Cortes, Centro(Madrid)",HouseType 1: Pisos,False,False,174.0,3,4.0,1,True,True,False,False,False,True,False,770000,4425,40.4141154,-3.701364
 13609,"Sol, Centro(Madrid)",HouseType 1: Pisos,False,False,104.0,2,1.0,2,True,True,False,False,False,True,False,615000,5913,40.4178272,-3.702222089915074
-13610,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,85.0,4,1.0,Entreplanta exterior,True,False,False,False,False,False,False,160000,1882,40.3869032,-3.7231858
+13610,"Opañel, Carabanchel(Madrid)",HouseType 1: Pisos,False,False,85.0,4,1.0,Entreplanta exterior,True,False,False,False,False,False,False,160000,1882,40.3861447,-3.7234674
 13611,"Malasaña-Universidad, Centro(Madrid)",HouseType 1: Pisos,False,False,142.0,2,1.0,1,True,True,False,False,False,True,False,550000,3873,40.4267079,-3.7042311
 13612,"Palacio, Centro(Madrid)",HouseType 1: Pisos,False,False,72.0,2,1.0,3,False,True,False,True,False,False,False,340000,4722,40.41512925,-3.7156179983990922
 13613,"Chueca-Justicia, Centro(Madrid)",HouseType 1: Pisos,False,False,182.0,3,4.0,3,True,True,False,False,True,False,False,1630000,8956,40.4227415,-3.6993271
@@ -15151,7 +15151,7 @@
 15149,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,66.0,2,2.0,3,False,True,False,False,False,False,False,365000,5530,40.4248165,-3.6758426
 15150,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,True,False,120.0,4,2.0,3,True,True,False,True,True,False,False,475000,3958,40.436238700000004,-3.667969551605894
 15151,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,90.0,3,1.0,2,True,True,False,False,False,False,False,435000,4833,40.436238700000004,-3.667969551605894
-15152,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,80.0,3,2.0,3,True,True,False,False,False,False,False,433000,5412,40.425131050000005,-3.66423759698396
+15152,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,80.0,3,2.0,3,True,True,False,False,False,False,False,433000,5412,40.424977,-3.6636998
 15153,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,155.0,4,2.0,1,True,True,False,True,False,False,False,740000,4774,40.436238700000004,-3.667969551605894
 15154,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,125.0,2,2.0,1,True,True,False,False,False,True,False,780000,6240,40.4248165,-3.6758426
 15155,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,True,75.0,1,1.0,Bajo,False,True,False,False,False,False,False,460000,6133,40.4248165,-3.6758426
@@ -15208,7 +15208,7 @@
 15206,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,512.0,6,5.0,4,True,True,True,True,True,False,False,3300000,6445,40.43382275,-3.6840035824511643
 15207,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,45.0,1,1.0,4,False,True,False,False,False,False,False,399000,8867,40.42417315,-3.685487264974136
 15208,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,144.0,2,1.0,1,True,True,False,False,True,False,False,450000,3125,40.4248165,-3.6758426
-15209,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,77.0,3,1.0,1,False,True,False,False,False,False,False,430000,5584,40.425131050000005,-3.66423759698396
+15209,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,77.0,3,1.0,1,False,True,False,False,False,False,False,430000,5584,40.424977,-3.6636998
 15210,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,300.0,5,5.0,6,True,True,True,True,True,False,False,2700000,9000,40.42417315,-3.685487264974136
 15211,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,98.0,2,2.0,2,True,True,False,False,False,True,False,850000,8673,40.42417315,-3.685487264974136
 15212,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,187.0,2,2.0,1,True,True,True,False,False,True,False,2300000,12299,40.42417315,-3.685487264974136
@@ -15239,7 +15239,7 @@
 15237,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,True,False,180.0,4,2.0,2,True,True,True,True,False,True,False,910000,5056,40.4248165,-3.6758426
 15238,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,True,False,88.0,3,1.0,Bajo,False,True,False,False,True,False,False,370000,4205,40.436238700000004,-3.667969551605894
 15239,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,90.0,2,1.0,4,True,True,False,False,False,False,False,530000,5889,40.43119915,-3.675505655704945
-15240,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,105.0,4,1.0,6,False,True,False,False,False,False,False,439000,4181,40.425131050000005,-3.66423759698396
+15240,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,105.0,4,1.0,6,False,True,False,False,False,False,False,439000,4181,40.424977,-3.6636998
 15241,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,103.0,2,2.0,2,True,True,True,True,True,False,True,479315,4654,40.436238700000004,-3.667969551605894
 15242,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,137.0,3,2.0,4,True,True,True,True,True,False,True,664797,4853,40.436238700000004,-3.667969551605894
 15243,"Guindalera, Salamanca(Madrid)",HouseType 5: Áticos,False,False,227.0,3,2.0,6,True,True,True,True,True,False,True,1035665,4562,40.436238700000004,-3.667969551605894
@@ -15257,11 +15257,11 @@
 15255,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,66.0,1,1.0,1,True,True,False,False,False,False,False,590000,8939,40.4248165,-3.6758426
 15256,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,328.0,4,4.0,3,True,True,True,True,True,False,False,1720000,5244,40.4248165,-3.6758426
 15257,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,75.0,2,1.0,1,False,True,False,False,False,False,False,460000,6133,40.43119915,-3.675505655704945
-15258,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,23.0,1,1.0,3,False,True,False,False,False,False,False,175000,7609,40.425131050000005,-3.66423759698396
+15258,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,23.0,1,1.0,3,False,True,False,False,False,False,False,175000,7609,40.424977,-3.6636998
 15259,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,77.0,2,1.0,1,True,True,True,False,False,True,False,435000,5649,40.436238700000004,-3.667969551605894
 15260,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,149.0,3,2.0,2,True,True,False,False,False,True,False,649000,4356,40.4248165,-3.6758426
 15261,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,100.0,2,2.0,1,True,True,True,False,False,False,False,419900,4199,40.436238700000004,-3.667969551605894
-15262,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,114.0,4,2.0,6,True,True,False,False,True,False,False,525000,4605,40.425131050000005,-3.66423759698396
+15262,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,114.0,4,2.0,6,True,True,False,False,True,False,False,525000,4605,40.424977,-3.6636998
 15263,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,86.0,2,1.0,6,True,True,False,False,False,False,False,849000,9872,40.43119915,-3.675505655704945
 15264,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,True,False,110.0,4,3.0,Entreplanta exterior,True,True,False,True,False,False,False,490000,4455,40.436238700000004,-3.667969551605894
 15265,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,115.0,3,2.0,Entreplanta exterior,True,True,False,False,False,False,False,369999,3217,40.436238700000004,-3.667969551605894
@@ -15304,7 +15304,7 @@
 15302,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,210.0,4,5.0,2,True,True,True,False,False,False,True,2000000,9524,40.43382275,-3.6840035824511643
 15303,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,63.0,1,1.0,5,True,True,False,True,False,False,False,510000,8095,40.42417315,-3.685487264974136
 15304,"Recoletos, Salamanca(Madrid)",HouseType 5: Áticos,False,False,285.0,4,3.0,8,True,True,False,False,True,False,False,1950000,6842,40.42417315,-3.685487264974136
-15305,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,198.0,5,3.0,5,True,True,False,False,False,False,False,785000,3965,40.425131050000005,-3.66423759698396
+15305,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,198.0,5,3.0,5,True,True,False,False,False,False,False,785000,3965,40.424977,-3.6636998
 15306,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,469.0,6,4.0,6,True,True,True,True,True,False,False,3110000,6631,40.42417315,-3.685487264974136
 15307,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,True,False,210.0,5,4.0,5,True,True,False,False,True,False,False,2200000,10476,40.42417315,-3.685487264974136
 15308,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,404.0,5,6.0,2,True,True,True,False,True,False,False,4350000,10767,40.42417315,-3.685487264974136
@@ -15336,15 +15336,15 @@
 15334,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,139.0,3,2.0,2,True,True,False,False,False,False,False,498000,3583,40.436238700000004,-3.667969551605894
 15335,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,70.0,1,1.0,1,True,True,False,False,False,False,False,490000,7000,40.4248165,-3.6758426
 15336,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,150.0,4,3.0,4,True,True,False,True,False,False,False,887000,5913,40.43382275,-3.6840035824511643
-15337,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,32.0,1,1.0,2,False,False,False,False,False,False,False,198000,6188,40.425131050000005,-3.66423759698396
+15337,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,32.0,1,1.0,2,False,False,False,False,False,False,False,198000,6188,40.424977,-3.6636998
 15338,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,124.0,2,2.0,1,False,True,False,False,False,False,False,795000,6411,40.4248165,-3.6758426
-15339,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,198.0,5,3.0,5,True,True,False,False,True,False,False,865000,4369,40.425131050000005,-3.66423759698396
+15339,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,198.0,5,3.0,5,True,True,False,False,True,False,False,865000,4369,40.424977,-3.6636998
 15340,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,138.0,3,2.0,3,True,True,False,False,False,False,False,1350000,9783,40.42417315,-3.685487264974136
 15341,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,126.0,4,2.0,7,True,True,False,False,False,False,False,846000,6714,40.43119915,-3.675505655704945
 15342,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,326.0,5,4.0,5,True,True,False,False,False,False,True,1800000,5521,40.436238700000004,-3.667969551605894
-15343,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,77.0,2,2.0,3,True,False,False,False,False,False,False,330000,4286,40.425131050000005,-3.66423759698396
+15343,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,77.0,2,2.0,3,True,False,False,False,False,False,False,330000,4286,40.424977,-3.6636998
 15344,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,148.0,4,2.0,6,True,True,False,False,True,True,False,730000,4932,40.4248165,-3.6758426
-15345,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,158.0,4,2.0,1,True,True,False,True,False,False,False,549000,3475,40.425131050000005,-3.66423759698396
+15345,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,158.0,4,2.0,1,True,True,False,True,False,False,False,549000,3475,40.424977,-3.6636998
 15346,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,158.0,2,2.0,5,True,True,False,False,False,True,False,920000,5823,40.43382275,-3.6840035824511643
 15347,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,317.0,4,5.0,4,True,True,False,False,False,True,False,4100000,12934,40.43382275,-3.6840035824511643
 15348,"Guindalera, Salamanca(Madrid)",HouseType 5: Áticos,True,False,236.0,4,2.0,6,True,True,False,False,True,False,False,690000,2924,40.436238700000004,-3.667969551605894
@@ -15363,7 +15363,7 @@
 15361,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,155.0,3,2.0,5,True,True,False,False,False,False,False,960000,6194,40.43119915,-3.675505655704945
 15362,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,120.0,3,2.0,3,True,True,False,True,True,True,False,975000,8125,40.43119915,-3.675505655704945
 15363,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,282.0,4,3.0,5,True,True,False,False,True,True,False,1100000,3901,40.43119915,-3.675505655704945
-15364,"Fuente del Berro, Salamanca(Madrid)",HouseType 5: Áticos,False,True,97.0,2,2.0,6,True,True,True,True,True,False,True,745000,7680,40.425131050000005,-3.66423759698396
+15364,"Fuente del Berro, Salamanca(Madrid)",HouseType 5: Áticos,False,True,97.0,2,2.0,6,True,True,True,True,True,False,True,745000,7680,40.424977,-3.6636998
 15365,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,43.0,2,2.0,5,False,True,False,False,False,False,False,325000,7558,40.4248165,-3.6758426
 15366,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,145.0,3,2.0,4,True,True,False,True,False,True,False,900000,6207,40.4248165,-3.6758426
 15367,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,True,False,350.0,4,3.0,2,True,True,True,True,True,False,False,2200000,6286,40.43382275,-3.6840035824511643
@@ -15383,7 +15383,7 @@
 15381,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,80.0,2,2.0,5,False,True,False,False,False,False,False,485000,6062,40.43382275,-3.6840035824511643
 15382,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,124.0,2,2.0,1,False,True,False,False,False,False,False,795000,6411,40.4248165,-3.6758426
 15383,"Guindalera, Salamanca(Madrid)",HouseType 5: Áticos,False,False,99.0,1,1.0,4,True,True,False,False,True,False,False,440000,4444,40.436238700000004,-3.667969551605894
-15384,"Fuente del Berro, Salamanca(Madrid)",HouseType 5: Áticos,False,False,189.0,3,2.0,7,True,True,False,True,True,False,False,1100000,5820,40.425131050000005,-3.66423759698396
+15384,"Fuente del Berro, Salamanca(Madrid)",HouseType 5: Áticos,False,False,189.0,3,2.0,7,True,True,False,True,True,False,False,1100000,5820,40.424977,-3.6636998
 15385,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,True,False,416.0,5,4.0,6,True,True,True,True,True,False,False,2500000,6010,40.43382275,-3.6840035824511643
 15386,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,250.0,5,4.0,5,True,True,False,True,False,False,False,1685000,6740,40.42417315,-3.685487264974136
 15387,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,471.0,6,6.0,6,True,True,True,False,False,False,False,4155000,8822,40.42417315,-3.685487264974136
@@ -15400,13 +15400,13 @@
 15398,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,99.0,2,2.0,2,True,True,False,False,False,True,False,625000,6313,40.43119915,-3.675505655704945
 15399,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,158.0,3,3.0,4,True,True,False,False,False,True,False,1390000,8797,40.43119915,-3.675505655704945
 15400,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,65.0,2,1.0,4,True,True,False,False,True,False,False,310000,4769,40.436238700000004,-3.667969551605894
-15401,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,76.0,2,1.0,1,False,True,False,False,False,False,False,350000,4605,40.425131050000005,-3.66423759698396
-15402,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,133.0,3,3.0,1,True,True,False,False,False,True,False,550000,4135,40.425131050000005,-3.66423759698396
+15401,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,76.0,2,1.0,1,False,True,False,False,False,False,False,350000,4605,40.424977,-3.6636998
+15402,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,133.0,3,3.0,1,True,True,False,False,False,True,False,550000,4135,40.424977,-3.6636998
 15403,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,404.0,5,6.0,2,True,True,True,True,True,True,False,4350000,10767,40.42417315,-3.685487264974136
 15404,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,57.0,1,1.0,4,False,True,False,False,False,False,False,380000,6667,40.43119915,-3.675505655704945
 15405,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,True,False,140.0,4,1.0,Entreplanta exterior,True,True,False,False,False,False,False,570000,4071,40.43382275,-3.6840035824511643
 15406,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,102.0,3,1.0,Bajo,True,True,False,False,False,False,False,349000,3422,40.436238700000004,-3.667969551605894
-15407,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,105.0,3,2.0,2,False,True,True,False,False,False,True,410000,3905,40.425131050000005,-3.66423759698396
+15407,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,105.0,3,2.0,2,False,True,True,False,False,False,True,410000,3905,40.424977,-3.6636998
 15408,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,178.0,4,2.0,5,True,True,True,True,True,False,False,799000,4489,40.4248165,-3.6758426
 15409,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,40.0,2,1.0,Bajo,False,True,False,False,True,False,False,239000,5975,40.4248165,-3.6758426
 15410,"Guindalera, Salamanca(Madrid)",HouseType 5: Áticos,False,False,125.0,3,1.0,3,True,False,False,False,True,False,False,375000,3000,40.436238700000004,-3.667969551605894
@@ -15448,7 +15448,7 @@
 15446,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,181.0,4,2.0,7,True,True,True,False,True,False,False,820000,4530,40.436238700000004,-3.667969551605894
 15447,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,True,False,400.0,5,5.0,7,True,True,True,True,False,False,False,2100000,5250,40.43382275,-3.6840035824511643
 15448,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,True,False,80.0,3,1.0,5,False,True,False,False,False,False,False,430000,5375,40.43119915,-3.675505655704945
-15449,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,94.0,2,2.0,1,False,False,False,False,False,False,False,455000,4840,40.425131050000005,-3.66423759698396
+15449,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,94.0,2,2.0,1,False,False,False,False,False,False,False,455000,4840,40.424977,-3.6636998
 15450,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,125.0,2,2.0,1,True,True,False,False,False,False,False,680000,5440,40.4248165,-3.6758426
 15451,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,True,176.0,2,2.0,3,True,True,True,True,True,False,False,1930000,10966,40.4248165,-3.6758426
 15452,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,48.0,1,1.0,Entreplanta interior,False,True,True,False,True,False,False,295000,6146,40.436238700000004,-3.667969551605894
@@ -15477,7 +15477,7 @@
 15475,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,True,False,124.0,3,2.0,2,True,True,True,False,True,False,False,650000,5242,40.4248165,-3.6758426
 15476,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,True,False,195.0,5,3.0,3,False,True,False,False,False,False,False,875000,4487,40.43119915,-3.675505655704945
 15477,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,64.0,1,1.0,2,False,True,False,False,False,False,False,329000,5141,40.43382275,-3.6840035824511643
-15478,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,118.0,4,2.0,1,True,False,False,False,False,False,False,480000,4068,40.425131050000005,-3.66423759698396
+15478,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,118.0,4,2.0,1,True,False,False,False,False,False,False,480000,4068,40.424977,-3.6636998
 15479,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,70.0,2,2.0,1,True,False,False,False,False,True,False,346500,4950,40.436238700000004,-3.667969551605894
 15480,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,True,False,90.0,3,1.0,Bajo,True,True,False,False,False,False,False,325000,3611,40.436238700000004,-3.667969551605894
 15481,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,94.0,3,2.0,2,True,True,True,True,True,True,False,459000,4883,40.436238700000004,-3.667969551605894
@@ -15489,7 +15489,7 @@
 15487,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,404.0,5,6.0,2,True,True,True,True,True,True,False,4350000,10767,40.42417315,-3.685487264974136
 15488,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,128.0,2,2.0,1,True,True,False,True,False,False,False,775000,6055,40.4248165,-3.6758426
 15489,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,404.0,5,6.0,2,True,True,True,True,True,True,False,4350000,10767,40.42417315,-3.685487264974136
-15490,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,67.0,2,2.0,2,True,True,False,False,False,False,False,337000,5030,40.425131050000005,-3.66423759698396
+15490,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,67.0,2,2.0,2,True,True,False,False,False,False,False,337000,5030,40.424977,-3.6636998
 15491,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,37.0,1,1.0,2,False,True,False,False,False,False,False,389000,10514,40.43119915,-3.675505655704945
 15492,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,True,False,132.0,4,2.0,1,True,True,False,False,False,True,False,580000,4394,40.436238700000004,-3.667969551605894
 15493,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,306.0,5,4.0,3,True,True,True,False,False,True,False,3395000,11095,40.42417315,-3.685487264974136
@@ -15498,7 +15498,7 @@
 15496,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,95.0,2,2.0,1,True,True,True,True,True,False,False,565000,5947,40.43119915,-3.675505655704945
 15497,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,160.0,5,2.0,Entreplanta exterior,True,True,False,False,True,False,False,565000,3531,40.43119915,-3.675505655704945
 15498,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,160.0,5,2.0,Entreplanta exterior,True,True,False,False,True,False,False,565000,3531,40.43119915,-3.675505655704945
-15499,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,148.0,3,3.0,2,True,True,True,True,True,False,True,695000,4696,40.425131050000005,-3.66423759698396
+15499,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,148.0,3,3.0,2,True,True,True,True,True,False,True,695000,4696,40.424977,-3.6636998
 15500,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,True,False,141.0,4,2.0,5,True,True,True,False,False,False,False,795000,5638,40.43119915,-3.675505655704945
 15501,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,33.0,1,1.0,1,False,False,False,False,True,False,False,275000,8333,40.43119915,-3.675505655704945
 15502,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,30.0,1,1.0,5,False,True,False,False,False,False,False,260000,8667,40.4248165,-3.6758426
@@ -15514,17 +15514,17 @@
 15512,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,78.0,2,1.0,Bajo,False,True,False,False,False,False,False,820000,10513,40.42417315,-3.685487264974136
 15513,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,50.0,2,1.0,5,False,True,False,False,False,False,False,345000,6900,40.4248165,-3.6758426
 15514,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,True,False,140.0,4,2.0,2,True,True,False,True,True,False,False,650000,4643,40.4248165,-3.6758426
-15515,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,200.0,5,3.0,3,True,True,False,False,True,False,False,750000,3750,40.425131050000005,-3.66423759698396
+15515,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,200.0,5,3.0,3,True,True,False,False,True,False,False,750000,3750,40.424977,-3.6636998
 15516,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,83.0,2,2.0,2,True,True,False,False,False,False,False,625000,7530,40.43119915,-3.675505655704945
 15517,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,251.0,3,4.0,4,True,True,True,True,False,False,False,3650000,14542,40.42417315,-3.685487264974136
-15518,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,60.0,2,1.0,4,False,True,False,False,False,False,False,310000,5167,40.425131050000005,-3.66423759698396
+15518,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,60.0,2,1.0,4,False,True,False,False,False,False,False,310000,5167,40.424977,-3.6636998
 15519,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,72.0,2,1.0,Bajo,False,False,False,False,True,False,False,820000,11389,40.42417315,-3.685487264974136
 15520,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,True,False,120.0,4,2.0,4,True,True,False,False,True,False,False,475000,3958,40.436238700000004,-3.667969551605894
 15521,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,160.0,5,2.0,Entreplanta exterior,True,True,False,True,False,False,False,490000,3062,40.436238700000004,-3.667969551605894
 15522,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,220.0,4,4.0,4,True,True,False,False,False,True,False,2550000,11591,40.42417315,-3.685487264974136
 15523,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,120.0,2,2.0,4,True,True,False,True,False,True,False,800000,6667,40.4248165,-3.6758426
 15524,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,395.0,5,4.0,5,True,True,True,True,True,True,False,2290000,5797,40.42417315,-3.685487264974136
-15525,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,73.0,3,1.0,Bajo,True,False,False,False,False,False,False,240000,3288,40.425131050000005,-3.66423759698396
+15525,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,73.0,3,1.0,Bajo,True,False,False,False,False,False,False,240000,3288,40.424977,-3.6636998
 15526,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,True,False,104.0,2,2.0,1,True,True,False,False,False,False,False,560000,5385,40.4248165,-3.6758426
 15527,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,True,False,202.0,4,3.0,3,True,True,True,True,True,True,False,1420000,7030,40.43382275,-3.6840035824511643
 15528,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,140.0,4,2.0,3,False,True,False,False,False,True,False,722500,5161,40.43382275,-3.6840035824511643
@@ -15555,7 +15555,7 @@
 15553,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,120.0,3,2.0,1,True,True,False,False,False,False,False,890000,7417,40.4248165,-3.6758426
 15554,"Recoletos, Salamanca(Madrid)",HouseType 4: Dúplex,False,False,176.0,3,4.0,5,True,True,True,False,True,False,False,1460000,8295,40.42417315,-3.685487264974136
 15555,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,150.0,3,3.0,1,False,True,False,False,True,False,False,1475000,9833,40.42417315,-3.685487264974136
-15556,"Fuente del Berro, Salamanca(Madrid)",HouseType 5: Áticos,False,False,123.0,2,2.0,3,True,True,False,False,True,True,False,483000,3927,40.425131050000005,-3.66423759698396
+15556,"Fuente del Berro, Salamanca(Madrid)",HouseType 5: Áticos,False,False,123.0,2,2.0,3,True,True,False,False,True,True,False,483000,3927,40.424977,-3.6636998
 15557,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,True,False,52.0,1,1.0,1,False,True,False,False,False,False,False,325000,6250,40.43382275,-3.6840035824511643
 15558,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,True,False,170.0,4,2.0,1,True,True,False,True,True,True,False,590000,3471,40.436238700000004,-3.667969551605894
 15559,"Lista, Salamanca(Madrid)",HouseType 5: Áticos,False,False,75.0,2,1.0,6,True,True,False,False,True,False,False,515000,6867,40.43119915,-3.675505655704945
@@ -15568,17 +15568,17 @@
 15566,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,290.0,4,5.0,4,True,True,False,True,False,True,False,2200000,7586,40.4248165,-3.6758426
 15567,"Goya, Salamanca(Madrid)",HouseType 5: Áticos,False,False,232.0,4,4.0,7,True,True,True,True,True,True,False,1600000,6897,40.4248165,-3.6758426
 15568,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,125.0,2,2.0,1,True,True,False,False,False,True,False,795000,6360,40.4248165,-3.6758426
-15569,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,73.0,2,1.0,1,True,True,False,True,True,False,False,329900,4519,40.425131050000005,-3.66423759698396
+15569,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,73.0,2,1.0,1,True,True,False,True,True,False,False,329900,4519,40.424977,-3.6636998
 15570,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,True,False,171.0,4,2.0,1,True,True,False,False,True,False,False,590000,3450,40.436238700000004,-3.667969551605894
 15571,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,True,False,58.0,2,1.0,Bajo,False,True,False,False,True,False,False,310000,5345,40.43382275,-3.6840035824511643
 15572,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,50.0,2,1.0,1,False,True,False,False,False,False,False,300000,6000,40.43119915,-3.675505655704945
 15573,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,115.0,3,2.0,1,True,True,False,False,False,True,False,695000,6043,40.4248165,-3.6758426
 15574,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,397.0,9,3.0,Bajo,True,True,False,False,True,True,False,2000000,5038,40.43382275,-3.6840035824511643
-15575,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,72.0,2,2.0,2,True,True,False,True,False,False,False,450000,6250,40.425131050000005,-3.66423759698396
+15575,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,72.0,2,2.0,2,True,True,False,True,False,False,False,450000,6250,40.424977,-3.6636998
 15576,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,242.0,4,3.0,5,True,True,True,False,False,True,False,1850000,7645,40.43119915,-3.675505655704945
 15577,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,139.0,3,2.0,2,True,True,True,False,False,True,False,950000,6835,40.4248165,-3.6758426
 15578,"Guindalera, Salamanca(Madrid)",HouseType 4: Dúplex,False,False,379.0,10,3.0,Bajo,True,False,False,False,True,False,False,1400000,3694,40.436238700000004,-3.667969551605894
-15579,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,85.0,4,1.0,4,True,True,False,False,False,False,False,377000,4435,40.425131050000005,-3.66423759698396
+15579,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,85.0,4,1.0,4,True,True,False,False,False,False,False,377000,4435,40.424977,-3.6636998
 15580,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,140.0,3,3.0,1,True,True,False,True,False,False,False,1475000,10536,40.42417315,-3.685487264974136
 15581,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,206.0,4,3.0,2,True,True,False,True,False,False,False,765000,3714,40.4248165,-3.6758426
 15582,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,105.0,2,2.0,2,True,True,True,True,False,False,False,419000,3990,40.436238700000004,-3.667969551605894
@@ -15647,14 +15647,14 @@
 15645,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,644.0,5,3.0,2,True,True,False,True,False,True,False,4900000,7609,40.42417315,-3.685487264974136
 15646,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,True,False,271.0,4,4.0,4,True,True,True,True,True,False,False,1500000,5535,40.43382275,-3.6840035824511643
 15647,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,43.0,2,2.0,5,False,True,False,False,False,False,False,325000,7558,40.4248165,-3.6758426
-15648,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,222.0,4,3.0,9,True,True,True,False,True,False,False,775000,3491,40.425131050000005,-3.66423759698396
+15648,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,222.0,4,3.0,9,True,True,True,False,True,False,False,775000,3491,40.424977,-3.6636998
 15649,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,True,False,207.0,4,3.0,3,True,True,True,True,False,False,False,1420000,6860,40.43382275,-3.6840035824511643
-15650,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,72.0,3,2.0,3,True,True,False,False,False,False,False,435000,6042,40.425131050000005,-3.66423759698396
+15650,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,72.0,3,2.0,3,True,True,False,False,False,False,False,435000,6042,40.424977,-3.6636998
 15651,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,149.0,3,2.0,2,True,True,False,False,False,False,False,725000,4866,40.436238700000004,-3.667969551605894
 15652,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,49.0,2,1.0,4,False,True,False,False,False,False,False,299000,6102,40.43119915,-3.675505655704945
-15653,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,123.0,4,2.0,1,True,True,False,False,False,False,False,370000,3008,40.425131050000005,-3.66423759698396
+15653,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,123.0,4,2.0,1,True,True,False,False,False,False,False,370000,3008,40.424977,-3.6636998
 15654,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,61.0,2,1.0,4,False,True,False,False,False,False,False,330000,5410,40.4248165,-3.6758426
-15655,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,60.0,2,1.0,4,False,False,False,False,False,False,False,250000,4167,40.425131050000005,-3.66423759698396
+15655,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,60.0,2,1.0,4,False,False,False,False,False,False,False,250000,4167,40.424977,-3.6636998
 15656,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,115.0,3,2.0,3,True,True,False,False,False,True,False,795000,6913,40.4248165,-3.6758426
 15657,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,108.0,3,2.0,Entreplanta interior,False,True,False,False,True,False,False,450000,4167,40.4248165,-3.6758426
 15658,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,140.0,4,3.0,1,True,True,False,False,False,True,False,750000,5357,40.4248165,-3.6758426
@@ -15675,7 +15675,7 @@
 15673,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,True,False,300.0,5,4.0,8,True,True,True,True,True,False,False,2750000,9167,40.43382275,-3.6840035824511643
 15674,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,348.0,5,3.0,3,True,True,False,False,False,False,False,1900000,5460,40.4248165,-3.6758426
 15675,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,203.0,5,2.0,1,True,True,False,False,False,False,False,725000,3571,40.43119915,-3.675505655704945
-15676,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,81.0,2,1.0,4,True,True,False,False,False,False,False,369000,4556,40.425131050000005,-3.66423759698396
+15676,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,81.0,2,1.0,4,True,True,False,False,False,False,False,369000,4556,40.424977,-3.6636998
 15677,"Goya, Salamanca(Madrid)",HouseType 5: Áticos,False,False,220.0,2,2.0,7,True,True,False,False,True,False,False,1450000,6591,40.4248165,-3.6758426
 15678,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,54.0,2,1.0,7,False,True,False,False,False,False,False,339000,6278,40.4248165,-3.6758426
 15679,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,65.0,2,2.0,1,True,True,True,False,False,True,False,449900,6922,40.43382275,-3.6840035824511643
@@ -15686,8 +15686,8 @@
 15684,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,True,False,332.0,6,5.0,5,True,True,True,False,False,False,False,1800000,5422,40.43382275,-3.6840035824511643
 15685,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,72.0,2,1.0,2,False,True,False,False,False,False,False,365000,5069,40.43119915,-3.675505655704945
 15686,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,176.0,4,2.0,3,True,True,False,True,False,False,False,895000,5085,40.4248165,-3.6758426
-15687,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,88.0,3,2.0,4,True,True,False,False,False,False,False,477000,5420,40.425131050000005,-3.66423759698396
-15688,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,91.0,3,2.0,3,True,True,False,False,False,False,False,430000,4725,40.425131050000005,-3.66423759698396
+15687,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,88.0,3,2.0,4,True,True,False,False,False,False,False,477000,5420,40.424977,-3.6636998
+15688,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,91.0,3,2.0,3,True,True,False,False,False,False,False,430000,4725,40.424977,-3.6636998
 15689,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,70.0,1,1.0,2,False,True,False,False,False,False,False,568000,8114,40.42417315,-3.685487264974136
 15690,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,59.0,2,2.0,2,True,True,False,False,False,True,False,460000,7797,40.43119915,-3.675505655704945
 15691,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,175.0,3,2.0,3,True,True,False,True,False,False,False,950000,5429,40.4248165,-3.6758426
@@ -15702,7 +15702,7 @@
 15700,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,162.0,5,3.0,4,True,True,True,False,False,True,False,930000,5741,40.4248165,-3.6758426
 15701,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,61.0,2,1.0,4,False,True,False,False,False,False,False,330000,5410,40.4248165,-3.6758426
 15702,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,471.0,6,4.0,6,True,True,True,False,False,False,False,4158000,8828,40.42417315,-3.685487264974136
-15703,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,123.0,4,2.0,2,True,True,False,True,False,False,False,585000,4756,40.425131050000005,-3.66423759698396
+15703,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,123.0,4,2.0,2,True,True,False,True,False,False,False,585000,4756,40.424977,-3.6636998
 15704,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,True,False,397.0,13,2.0,Bajo,True,True,False,True,True,False,False,2000000,5038,40.43382275,-3.6840035824511643
 15705,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,186.0,3,4.0,4,True,True,False,True,False,False,False,1610000,8656,40.43382275,-3.6840035824511643
 15706,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,240.0,4,4.0,2,True,True,True,True,False,True,False,2550000,10625,40.42417315,-3.685487264974136
@@ -15759,7 +15759,7 @@
 15757,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,306.0,4,4.0,3,True,True,False,False,False,False,False,3595000,11748,40.42417315,-3.685487264974136
 15758,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,444.0,5,4.0,4,True,True,True,True,False,False,False,2950000,6644,40.43382275,-3.6840035824511643
 15759,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,499.0,6,5.0,3,True,True,True,True,False,False,False,3600000,7214,40.43382275,-3.6840035824511643
-15760,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,125.0,3,1.0,2,True,True,False,False,False,False,False,399000,3192,40.425131050000005,-3.66423759698396
+15760,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,125.0,3,1.0,2,True,True,False,False,False,False,False,399000,3192,40.424977,-3.6636998
 15761,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,60.0,1,1.0,5,False,True,False,False,False,False,False,460000,7667,40.43382275,-3.6840035824511643
 15762,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,82.0,2,1.0,5,True,True,True,False,False,True,False,390000,4756,40.4248165,-3.6758426
 15763,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,95.0,1,1.0,Bajo,True,True,False,False,False,False,False,575000,6053,40.43382275,-3.6840035824511643
@@ -15781,13 +15781,13 @@
 15779,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,134.0,1,1.0,Semi-sótano interior,False,True,False,False,False,False,False,750000,5597,40.42417315,-3.685487264974136
 15780,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,70.0,2,2.0,5,False,True,True,False,False,False,False,699000,9986,40.42417315,-3.685487264974136
 15781,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,103.0,2,1.0,Entreplanta interior,False,True,False,False,False,False,False,515000,5000,40.43119915,-3.675505655704945
-15782,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,181.0,5,2.0,6,True,True,False,True,False,True,False,795000,4392,40.425131050000005,-3.66423759698396
+15782,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,181.0,5,2.0,6,True,True,False,True,False,True,False,795000,4392,40.424977,-3.6636998
 15783,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,True,False,232.0,3,3.0,4,True,True,False,False,False,True,False,1950000,8405,40.42417315,-3.685487264974136
-15784,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,89.0,2,1.0,5,True,True,False,False,False,False,False,345000,3876,40.425131050000005,-3.66423759698396
+15784,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,89.0,2,1.0,5,True,True,False,False,False,False,False,345000,3876,40.424977,-3.6636998
 15785,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,317.0,4,5.0,4,True,True,False,False,False,True,False,4100000,12934,40.43382275,-3.6840035824511643
 15786,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,230.0,3,4.0,5,True,True,False,False,False,False,False,2280000,9913,40.43382275,-3.6840035824511643
 15787,"Lista, Salamanca(Madrid)",HouseType 5: Áticos,False,False,134.0,3,2.0,6,True,True,True,True,True,False,False,1200000,8955,40.43119915,-3.675505655704945
-15788,"Fuente del Berro, Salamanca(Madrid)",HouseType 5: Áticos,False,False,104.0,2,1.0,6,True,True,True,False,True,False,False,597000,5740,40.425131050000005,-3.66423759698396
+15788,"Fuente del Berro, Salamanca(Madrid)",HouseType 5: Áticos,False,False,104.0,2,1.0,6,True,True,True,False,True,False,False,597000,5740,40.424977,-3.6636998
 15789,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,True,False,125.0,4,3.0,1,True,True,False,False,True,False,False,740000,5920,40.43119915,-3.675505655704945
 15790,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,164.0,3,2.0,4,True,True,True,False,True,False,False,980000,5976,40.4248165,-3.6758426
 15791,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,96.0,2,3.0,4,False,True,False,False,False,False,False,498000,5188,40.43119915,-3.675505655704945
@@ -15795,7 +15795,7 @@
 15793,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,97.0,3,1.0,2,True,True,True,False,True,False,False,449000,4629,40.436238700000004,-3.667969551605894
 15794,"Lista, Salamanca(Madrid)",HouseType 5: Áticos,False,False,179.0,2,2.0,5,True,True,False,False,True,False,False,985000,5503,40.43119915,-3.675505655704945
 15795,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,72.0,2,2.0,3,False,True,False,False,False,False,False,750000,10417,40.42417315,-3.685487264974136
-15796,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,120.0,4,2.0,4,False,True,False,True,True,False,False,449950,3750,40.425131050000005,-3.66423759698396
+15796,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,120.0,4,2.0,4,False,True,False,True,True,False,False,449950,3750,40.424977,-3.6636998
 15797,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,235.0,4,3.0,6,True,True,True,True,True,False,False,740000,3149,40.436238700000004,-3.667969551605894
 15798,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,190.0,4,2.0,Bajo,False,True,False,True,False,False,False,800000,4211,40.43382275,-3.6840035824511643
 15799,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,74.0,2,2.0,1,True,True,False,False,False,False,False,345000,4662,40.436238700000004,-3.667969551605894
@@ -15803,9 +15803,9 @@
 15801,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,635.0,4,3.0,2,True,True,False,False,True,False,False,4900000,7717,40.42417315,-3.685487264974136
 15802,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,245.0,5,5.0,1,True,True,True,True,False,True,False,2200000,8980,40.42417315,-3.685487264974136
 15803,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,46.0,1,1.0,5,True,False,False,False,False,False,False,174900,3802,40.436238700000004,-3.667969551605894
-15804,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,85.0,2,2.0,4,True,True,False,False,True,False,False,480000,5647,40.425131050000005,-3.66423759698396
+15804,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,85.0,2,2.0,4,True,True,False,False,True,False,False,480000,5647,40.424977,-3.6636998
 15805,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,164.0,3,2.0,4,True,True,True,False,False,False,False,980000,5976,40.4248165,-3.6758426
-15806,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,126.0,4,2.0,3,True,True,False,True,False,True,False,445000,3532,40.425131050000005,-3.66423759698396
+15806,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,126.0,4,2.0,3,True,True,False,True,False,True,False,445000,3532,40.424977,-3.6636998
 15807,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,54.0,2,1.0,7,True,True,False,False,False,False,False,312000,5778,40.436238700000004,-3.667969551605894
 15808,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,136.0,2,2.0,2,False,True,False,False,False,False,False,795000,5846,40.4248165,-3.6758426
 15809,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,142.0,3,3.0,4,False,True,False,False,False,False,False,975000,6866,40.43382275,-3.6840035824511643
@@ -15837,7 +15837,7 @@
 15835,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,True,False,326.0,5,7.0,1,True,True,False,True,True,False,False,2100000,6442,40.43382275,-3.6840035824511643
 15836,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,True,False,290.0,4,4.0,5,True,True,False,True,False,False,False,2500000,8621,40.43382275,-3.6840035824511643
 15837,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,True,False,180.0,4,2.0,1,True,True,False,False,False,False,False,1050000,5833,40.43382275,-3.6840035824511643
-15838,"Fuente del Berro, Salamanca(Madrid)",HouseType 5: Áticos,True,False,150.0,3,2.0,9,True,True,False,False,True,True,False,699000,4660,40.425131050000005,-3.66423759698396
+15838,"Fuente del Berro, Salamanca(Madrid)",HouseType 5: Áticos,True,False,150.0,3,2.0,9,True,True,False,False,True,True,False,699000,4660,40.424977,-3.6636998
 15839,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,245.0,4,5.0,3,True,True,False,False,False,False,False,2280000,9306,40.43382275,-3.6840035824511643
 15840,"Recoletos, Salamanca(Madrid)",HouseType 5: Áticos,False,False,84.0,1,1.0,7,True,True,False,False,True,True,False,795000,9464,40.42417315,-3.685487264974136
 15841,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,478.0,3,4.0,6,True,True,True,True,False,False,False,6900000,14435,40.43382275,-3.6840035824511643
@@ -15847,7 +15847,7 @@
 15845,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,90.0,3,1.0,1,False,True,False,False,True,False,False,465000,5167,40.436238700000004,-3.667969551605894
 15846,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,True,False,204.0,5,3.0,2,True,True,False,False,True,False,False,560000,2745,40.436238700000004,-3.667969551605894
 15847,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,True,False,171.0,3,2.0,2,True,True,False,False,True,False,False,875000,5117,40.4248165,-3.6758426
-15848,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,86.0,2,1.0,Bajo,True,True,False,False,False,False,False,350000,4070,40.425131050000005,-3.66423759698396
+15848,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,86.0,2,1.0,Bajo,True,True,False,False,False,False,False,350000,4070,40.424977,-3.6636998
 15849,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,155.0,3,2.0,1,True,True,False,False,False,False,False,1100000,7097,40.42417315,-3.685487264974136
 15850,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,True,False,97.0,2,1.0,4,True,True,True,False,True,False,False,369000,3804,40.436238700000004,-3.667969551605894
 15851,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,185.0,3,3.0,6,True,True,True,False,False,False,False,1975000,10676,40.43382275,-3.6840035824511643
@@ -15858,12 +15858,12 @@
 15856,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,137.0,4,2.0,1,True,True,False,False,True,False,False,595000,4343,40.436238700000004,-3.667969551605894
 15857,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,94.0,2,1.0,1,True,True,False,False,False,False,False,320000,3404,40.436238700000004,-3.667969551605894
 15858,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,True,False,305.0,4,3.0,6,True,True,True,True,True,False,False,1450000,4754,40.4248165,-3.6758426
-15859,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,72.0,2,2.0,5,True,True,False,False,False,False,False,354000,4917,40.425131050000005,-3.66423759698396
+15859,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,72.0,2,2.0,5,True,True,False,False,False,False,False,354000,4917,40.424977,-3.6636998
 15860,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,90.0,2,2.0,3,True,True,False,False,False,True,False,950000,10556,40.43382275,-3.6840035824511643
 15861,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,279.0,4,4.0,1,True,True,True,False,False,False,False,2200000,7885,40.42417315,-3.685487264974136
 15862,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,True,False,100.0,4,2.0,2,True,True,False,True,True,False,False,423000,4230,40.436238700000004,-3.667969551605894
 15863,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,90.0,2,2.0,3,True,True,False,False,False,True,False,950000,10556,40.43382275,-3.6840035824511643
-15864,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,72.0,2,2.0,2,True,True,False,True,False,False,False,450000,6250,40.425131050000005,-3.66423759698396
+15864,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,72.0,2,2.0,2,True,True,False,True,False,False,False,450000,6250,40.424977,-3.6636998
 15865,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,372.0,4,5.0,2,True,True,False,True,True,False,False,2300000,6183,40.43382275,-3.6840035824511643
 15866,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,223.0,4,2.0,2,True,True,False,True,False,False,False,1600000,7175,40.42417315,-3.685487264974136
 15867,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,173.0,5,1.0,Bajo,True,True,False,False,False,False,False,650000,3757,40.42417315,-3.685487264974136
@@ -15892,12 +15892,12 @@
 15890,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,True,False,124.0,2,2.0,3,True,True,True,False,False,False,False,1110000,8952,40.42417315,-3.685487264974136
 15891,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,177.0,3,3.0,4,True,True,True,True,False,True,False,1300000,7345,40.4248165,-3.6758426
 15892,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,True,False,142.0,3,2.0,4,True,True,False,False,False,True,False,1220000,8592,40.42417315,-3.685487264974136
-15893,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,110.0,3,2.0,5,True,True,True,False,False,False,False,539000,4900,40.425131050000005,-3.66423759698396
+15893,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,110.0,3,2.0,5,True,True,True,False,False,False,False,539000,4900,40.424977,-3.6636998
 15894,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,161.0,3,3.0,2,True,True,False,False,True,False,False,899000,5584,40.43119915,-3.675505655704945
 15895,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,184.0,2,3.0,2,True,True,False,True,True,False,False,1100000,5978,40.4248165,-3.6758426
 15896,"Guindalera, Salamanca(Madrid)",HouseType 4: Dúplex,False,False,114.0,2,2.0,4,True,True,True,True,True,False,False,490000,4298,40.436238700000004,-3.667969551605894
 15897,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,162.0,4,2.0,4,True,True,False,True,True,False,False,539000,3327,40.436238700000004,-3.667969551605894
-15898,"Fuente del Berro, Salamanca(Madrid)",HouseType 4: Dúplex,False,False,45.0,0,1.0,Bajo,True,False,False,False,False,False,False,145000,3222,40.425131050000005,-3.66423759698396
+15898,"Fuente del Berro, Salamanca(Madrid)",HouseType 4: Dúplex,False,False,45.0,0,1.0,Bajo,True,False,False,False,False,False,False,145000,3222,40.424977,-3.6636998
 15899,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,True,False,112.0,3,2.0,2,True,True,False,False,False,False,False,485000,4330,40.43119915,-3.675505655704945
 15900,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,233.0,4,4.0,5,True,True,False,True,False,False,False,1690000,7253,40.43382275,-3.6840035824511643
 15901,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,87.0,2,1.0,Bajo,False,True,False,False,False,False,False,725000,8333,40.42417315,-3.685487264974136
@@ -15909,22 +15909,22 @@
 15907,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,297.0,5,3.0,3,True,True,False,True,True,False,False,2250000,7576,40.43382275,-3.6840035824511643
 15908,"Recoletos, Salamanca(Madrid)",HouseType 4: Dúplex,False,False,206.0,3,3.0,5,False,True,False,False,False,False,False,1590000,7718,40.42417315,-3.685487264974136
 15909,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,133.0,3,2.0,6,False,True,False,False,True,False,False,575000,4323,40.436238700000004,-3.667969551605894
-15910,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,170.0,5,2.0,1,True,True,False,False,False,False,False,520000,3059,40.425131050000005,-3.66423759698396
+15910,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,True,False,170.0,5,2.0,1,True,True,False,False,False,False,False,520000,3059,40.424977,-3.6636998
 15911,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,True,False,172.0,4,3.0,1,True,True,False,False,True,False,False,560000,3256,40.436238700000004,-3.667969551605894
-15912,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,71.0,2,2.0,5,True,True,False,False,False,False,False,354000,4986,40.425131050000005,-3.66423759698396
+15912,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,71.0,2,2.0,5,True,True,False,False,False,False,False,354000,4986,40.424977,-3.6636998
 15913,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,True,False,80.0,3,1.0,2,True,True,False,False,False,False,False,295000,3688,40.436238700000004,-3.667969551605894
 15914,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,165.0,3,2.0,3,True,True,True,False,True,False,False,750000,4545,40.436238700000004,-3.667969551605894
 15915,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,160.0,4,3.0,2,True,True,False,False,True,False,False,639000,3994,40.436238700000004,-3.667969551605894
 15916,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,45.0,1,2.0,Bajo,True,True,False,True,False,False,False,295000,6556,40.43119915,-3.675505655704945
 15917,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,True,False,155.0,4,3.0,8,True,True,True,False,True,False,False,509000,3284,40.436238700000004,-3.667969551605894
 15918,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,True,False,88.0,3,1.0,1,True,False,False,False,False,True,False,475000,5398,40.43119915,-3.675505655704945
-15919,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,55.0,2,1.0,2,False,True,False,False,False,False,False,279000,5073,40.425131050000005,-3.66423759698396
+15919,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,55.0,2,1.0,2,False,True,False,False,False,False,False,279000,5073,40.424977,-3.6636998
 15920,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,391.0,6,4.0,5,True,True,True,True,True,False,False,2290000,5857,40.42417315,-3.685487264974136
-15921,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,133.0,3,2.0,4,True,True,True,False,False,False,False,580000,4361,40.425131050000005,-3.66423759698396
+15921,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,133.0,3,2.0,4,True,True,True,False,False,False,False,580000,4361,40.424977,-3.6636998
 15922,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,130.0,3,2.0,1,True,True,False,True,False,True,False,750000,5769,40.43119915,-3.675505655704945
 15923,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,187.0,5,3.0,3,True,True,True,True,True,False,False,1250000,6684,40.4248165,-3.6758426
 15924,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,True,False,221.0,4,4.0,3,True,True,True,True,False,True,False,1700000,7692,40.42417315,-3.685487264974136
-15925,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,113.0,2,2.0,6,True,True,False,False,False,True,False,575000,5088,40.425131050000005,-3.66423759698396
+15925,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,113.0,2,2.0,6,True,True,False,False,False,True,False,575000,5088,40.424977,-3.6636998
 15926,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,True,False,179.0,4,3.0,4,True,True,True,True,False,False,False,539000,3011,40.436238700000004,-3.667969551605894
 15927,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,155.0,3,2.0,3,True,True,True,False,False,True,False,917000,5916,40.4248165,-3.6758426
 15928,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,404.0,5,6.0,2,True,True,True,True,True,False,False,4350000,10767,40.42417315,-3.685487264974136
@@ -15935,14 +15935,14 @@
 15933,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,True,False,149.0,5,2.0,5,True,True,False,False,True,False,False,1180000,7919,40.4248165,-3.6758426
 15934,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,121.0,3,3.0,5,True,True,False,True,False,False,False,860000,7107,40.43119915,-3.675505655704945
 15935,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,110.0,2,2.0,2,True,True,False,False,False,True,False,850000,7727,40.43382275,-3.6840035824511643
-15936,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,145.0,4,2.0,2,True,True,False,False,True,False,True,665000,4586,40.425131050000005,-3.66423759698396
+15936,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,145.0,4,2.0,2,True,True,False,False,True,False,True,665000,4586,40.424977,-3.6636998
 15937,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,123.0,2,2.0,1,True,True,False,True,False,False,False,795000,6463,40.4248165,-3.6758426
 15938,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,384.0,5,5.0,5,True,True,True,True,True,False,False,3300000,8594,40.43382275,-3.6840035824511643
 15939,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,166.0,3,2.0,4,True,True,False,True,False,False,False,740000,4458,40.436238700000004,-3.667969551605894
 15940,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,400.0,5,5.0,2,True,True,True,True,True,False,False,4350000,10875,40.42417315,-3.685487264974136
-15941,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,95.0,2,2.0,1,True,True,False,False,False,False,False,390000,4105,40.425131050000005,-3.66423759698396
+15941,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,95.0,2,2.0,1,True,True,False,False,False,False,False,390000,4105,40.424977,-3.6636998
 15942,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,127.0,2,2.0,3,True,True,False,False,False,True,False,1250000,9843,40.43382275,-3.6840035824511643
-15943,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,83.0,3,2.0,3,False,False,True,True,False,False,False,482000,5807,40.425131050000005,-3.66423759698396
+15943,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,83.0,3,2.0,3,False,False,True,True,False,False,False,482000,5807,40.424977,-3.6636998
 15944,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,True,False,173.0,3,3.0,2,True,True,False,False,True,True,False,895000,5173,40.43119915,-3.675505655704945
 15945,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,93.0,3,2.0,2,True,True,True,True,False,False,False,459000,4935,40.436238700000004,-3.667969551605894
 15946,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,True,False,330.0,5,4.0,1,True,True,True,True,True,True,False,2150000,6515,40.42417315,-3.685487264974136
@@ -15970,7 +15970,7 @@
 15968,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,45.0,1,1.0,3,False,True,False,False,False,False,False,475000,10556,40.42417315,-3.685487264974136
 15969,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,True,False,422.0,6,4.0,2,True,True,True,False,True,False,False,1350000,3199,40.43119915,-3.675505655704945
 15970,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,True,False,124.0,3,2.0,2,True,True,False,False,True,False,False,650000,5242,40.4248165,-3.6758426
-15971,"Fuente del Berro, Salamanca(Madrid)",HouseType 5: Áticos,False,False,104.0,2,1.0,6,True,True,False,False,True,False,False,597000,5740,40.425131050000005,-3.66423759698396
+15971,"Fuente del Berro, Salamanca(Madrid)",HouseType 5: Áticos,False,False,104.0,2,1.0,6,True,True,False,False,True,False,False,597000,5740,40.424977,-3.6636998
 15972,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,True,False,280.0,5,3.0,4,True,True,False,False,False,False,False,1475000,5268,40.4248165,-3.6758426
 15973,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,73.0,2,1.0,3,True,True,False,False,False,False,False,340000,4658,40.436238700000004,-3.667969551605894
 15974,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,True,False,222.0,3,1.0,3,True,True,False,False,False,False,False,1500000,6757,40.42417315,-3.685487264974136
@@ -16015,12 +16015,12 @@
 16013,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,True,False,348.0,4,3.0,2,True,True,False,True,True,False,False,2200000,6322,40.43119915,-3.675505655704945
 16014,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,266.0,4,4.0,5,True,True,False,True,True,True,False,2240000,8421,40.43382275,-3.6840035824511643
 16015,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,372.0,5,5.0,4,True,True,False,True,True,False,False,2630000,7070,40.43382275,-3.6840035824511643
-16016,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,119.0,3,2.0,4,True,True,False,False,True,False,False,580000,4874,40.425131050000005,-3.66423759698396
+16016,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,119.0,3,2.0,4,True,True,False,False,True,False,False,580000,4874,40.424977,-3.6636998
 16017,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,221.0,5,2.0,2,True,True,False,True,False,False,False,1050000,4751,40.4248165,-3.6758426
 16018,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,True,False,265.0,3,2.0,2,True,True,False,False,False,False,False,1300000,4906,40.43119915,-3.675505655704945
 16019,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,True,False,209.0,4,2.0,5,True,True,False,True,False,False,False,1260000,6029,40.43382275,-3.6840035824511643
 16020,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,194.0,4,3.0,2,True,True,False,True,False,False,False,1290000,6649,40.42417315,-3.685487264974136
-16021,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,65.0,1,1.0,Bajo,True,True,False,False,False,False,False,220000,3385,40.425131050000005,-3.66423759698396
+16021,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,65.0,1,1.0,Bajo,True,True,False,False,False,False,False,220000,3385,40.424977,-3.6636998
 16022,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,False,False,214.0,4,3.0,1,True,True,False,False,True,False,True,990000,4626,40.43119915,-3.675505655704945
 16023,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,144.0,3,2.0,6,True,True,True,True,True,False,False,960000,6667,40.4248165,-3.6758426
 16024,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,135.0,3,2.0,1,True,True,False,True,False,False,False,610000,4519,40.436238700000004,-3.667969551605894
@@ -16029,7 +16029,7 @@
 16027,"Lista, Salamanca(Madrid)",HouseType 1: Pisos,True,False,216.0,4,2.0,6,True,True,False,True,True,False,False,950000,4398,40.43119915,-3.675505655704945
 16028,"Castellana, Salamanca(Madrid)",HouseType 1: Pisos,False,False,82.0,2,1.0,2,True,True,False,False,False,True,False,550000,6707,40.43382275,-3.6840035824511643
 16029,"Guindalera, Salamanca(Madrid)",HouseType 1: Pisos,False,False,47.0,2,1.0,2,True,False,False,False,False,False,False,232000,4936,40.436238700000004,-3.667969551605894
-16030,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,72.0,2,2.0,2,True,True,False,False,False,False,False,450000,6250,40.425131050000005,-3.66423759698396
+16030,"Fuente del Berro, Salamanca(Madrid)",HouseType 1: Pisos,False,False,72.0,2,2.0,2,True,True,False,False,False,False,False,450000,6250,40.424977,-3.6636998
 16031,"Goya, Salamanca(Madrid)",HouseType 1: Pisos,False,False,128.0,2,2.0,1,True,True,False,False,True,False,False,750000,5859,40.4248165,-3.6758426
 16032,"Recoletos, Salamanca(Madrid)",HouseType 1: Pisos,False,False,76.0,1,1.0,4,False,True,False,False,False,False,False,490000,6447,40.42417315,-3.685487264974136
 16033,"Goya, Salamanca(Madrid)",HouseType 5: Áticos,False,False,240.0,4,3.0,8,True,True,False,False,True,False,False,1975000,8229,40.4248165,-3.6758426
